@@ -1,0 +1,408 @@
+{
+  "total_reviews": 340,
+  "filtered_reviews_lt_3": 340,
+  "top_unigrams": [
+    {
+      "term": "there",
+      "count": 96
+    },
+    {
+      "term": "suspended",
+      "count": 65
+    },
+    {
+      "term": "neighbors",
+      "count": 55
+    },
+    {
+      "term": "biased",
+      "count": 54
+    },
+    {
+      "term": "banned",
+      "count": 43
+    },
+    {
+      "term": "name",
+      "count": 42
+    },
+    {
+      "term": "like",
+      "count": 38
+    },
+    {
+      "term": "time",
+      "count": 38
+    },
+    {
+      "term": "community",
+      "count": 38
+    },
+    {
+      "term": "left",
+      "count": 36
+    },
+    {
+      "term": "support",
+      "count": 36
+    },
+    {
+      "term": "trump",
+      "count": 35
+    },
+    {
+      "term": "remove",
+      "count": 35
+    },
+    {
+      "term": "ads",
+      "count": 34
+    },
+    {
+      "term": "censorship",
+      "count": 34
+    },
+    {
+      "term": "right",
+      "count": 33
+    },
+    {
+      "term": "racist",
+      "count": 31
+    },
+    {
+      "term": "place",
+      "count": 31
+    },
+    {
+      "term": "response",
+      "count": 30
+    },
+    {
+      "term": "wing",
+      "count": 30
+    },
+    {
+      "term": "allow",
+      "count": 30
+    },
+    {
+      "term": "never",
+      "count": 29
+    },
+    {
+      "term": "users",
+      "count": 29
+    },
+    {
+      "term": "said",
+      "count": 29
+    },
+    {
+      "term": "political",
+      "count": 28
+    },
+    {
+      "term": "neighborhood",
+      "count": 28
+    },
+    {
+      "term": "local",
+      "count": 28
+    },
+    {
+      "term": "zero",
+      "count": 26
+    },
+    {
+      "term": "heavy",
+      "count": 26
+    },
+    {
+      "term": "privacy",
+      "count": 25
+    },
+    {
+      "term": "rules",
+      "count": 25
+    },
+    {
+      "term": "information",
+      "count": 25
+    },
+    {
+      "term": "rude",
+      "count": 24
+    },
+    {
+      "term": "deleted",
+      "count": 23
+    },
+    {
+      "term": "years",
+      "count": 23
+    },
+    {
+      "term": "now",
+      "count": 23
+    },
+    {
+      "term": "experience",
+      "count": 22
+    },
+    {
+      "term": "reporting",
+      "count": 22
+    },
+    {
+      "term": "say",
+      "count": 21
+    },
+    {
+      "term": "bias",
+      "count": 21
+    },
+    {
+      "term": "see",
+      "count": 21
+    },
+    {
+      "term": "work",
+      "count": 20
+    },
+    {
+      "term": "social",
+      "count": 20
+    },
+    {
+      "term": "media",
+      "count": 20
+    },
+    {
+      "term": "guidelines",
+      "count": 20
+    },
+    {
+      "term": "reason",
+      "count": 20
+    },
+    {
+      "term": "allowed",
+      "count": 19
+    },
+    {
+      "term": "photo",
+      "count": 19
+    },
+    {
+      "term": "delete",
+      "count": 19
+    },
+    {
+      "term": "business",
+      "count": 19
+    }
+  ],
+  "top_bigrams": [
+    {
+      "term": "left wing",
+      "count": 23
+    },
+    {
+      "term": "social media",
+      "count": 20
+    },
+    {
+      "term": "heavy censorship",
+      "count": 19
+    },
+    {
+      "term": "zero stars",
+      "count": 15
+    },
+    {
+      "term": "free speech",
+      "count": 13
+    },
+    {
+      "term": "high school",
+      "count": 12
+    },
+    {
+      "term": "bias conservatives",
+      "count": 12
+    },
+    {
+      "term": "insulting rude",
+      "count": 12
+    },
+    {
+      "term": "trump musk",
+      "count": 10
+    },
+    {
+      "term": "main feed",
+      "count": 10
+    },
+    {
+      "term": "mob mentality",
+      "count": 8
+    },
+    {
+      "term": "wing propaganda",
+      "count": 8
+    },
+    {
+      "term": "non local",
+      "count": 8
+    },
+    {
+      "term": "worst online",
+      "count": 7
+    },
+    {
+      "term": "online experience",
+      "count": 7
+    },
+    {
+      "term": "political allowed",
+      "count": 7
+    },
+    {
+      "term": "neighborhood there",
+      "count": 7
+    },
+    {
+      "term": "original poster",
+      "count": 7
+    },
+    {
+      "term": "com zero",
+      "count": 7
+    },
+    {
+      "term": "there minus",
+      "count": 7
+    },
+    {
+      "term": "minus zero",
+      "count": 7
+    },
+    {
+      "term": "zero star",
+      "count": 7
+    },
+    {
+      "term": "star there",
+      "count": 7
+    },
+    {
+      "term": "literally filled",
+      "count": 7
+    },
+    {
+      "term": "changed ads",
+      "count": 7
+    },
+    {
+      "term": "ads now",
+      "count": 7
+    },
+    {
+      "term": "media now",
+      "count": 7
+    },
+    {
+      "term": "public shaming",
+      "count": 7
+    },
+    {
+      "term": "neighbors rules",
+      "count": 7
+    },
+    {
+      "term": "censored banned",
+      "count": 7
+    },
+    {
+      "term": "time unsubscribing",
+      "count": 7
+    },
+    {
+      "term": "unsolicited emails",
+      "count": 7
+    },
+    {
+      "term": "aggravating say",
+      "count": 7
+    },
+    {
+      "term": "say least",
+      "count": 7
+    },
+    {
+      "term": "nut jobs",
+      "count": 7
+    },
+    {
+      "term": "reporting insulting",
+      "count": 7
+    },
+    {
+      "term": "many times",
+      "count": 7
+    },
+    {
+      "term": "shockingly poorly",
+      "count": 7
+    },
+    {
+      "term": "poorly moderated",
+      "count": 7
+    },
+    {
+      "term": "right wing",
+      "count": 7
+    },
+    {
+      "term": "remove user",
+      "count": 7
+    },
+    {
+      "term": "speak mind",
+      "count": 7
+    },
+    {
+      "term": "haven racists",
+      "count": 7
+    },
+    {
+      "term": "far right",
+      "count": 7
+    },
+    {
+      "term": "give zero",
+      "count": 7
+    },
+    {
+      "term": "stars possible",
+      "count": 7
+    },
+    {
+      "term": "biased hacks",
+      "count": 7
+    },
+    {
+      "term": "hacks censoring",
+      "count": 7
+    },
+    {
+      "term": "censoring civil",
+      "count": 7
+    },
+    {
+      "term": "civil debate",
+      "count": 7
+    }
+  ]
+}

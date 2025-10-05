@@ -1,0 +1,408 @@
+{
+  "total_reviews": 686,
+  "filtered_reviews_lt_3": 196,
+  "top_unigrams": [
+    {
+      "term": "neighbor",
+      "count": 292
+    },
+    {
+      "term": "host",
+      "count": 165
+    },
+    {
+      "term": "com",
+      "count": 125
+    },
+    {
+      "term": "service",
+      "count": 103
+    },
+    {
+      "term": "space",
+      "count": 102
+    },
+    {
+      "term": "money",
+      "count": 92
+    },
+    {
+      "term": "car",
+      "count": 81
+    },
+    {
+      "term": "storage",
+      "count": 80
+    },
+    {
+      "term": "scam",
+      "count": 74
+    },
+    {
+      "term": "company",
+      "count": 71
+    },
+    {
+      "term": "there",
+      "count": 70
+    },
+    {
+      "term": "month",
+      "count": 66
+    },
+    {
+      "term": "refund",
+      "count": 64
+    },
+    {
+      "term": "time",
+      "count": 62
+    },
+    {
+      "term": "customer",
+      "count": 62
+    },
+    {
+      "term": "never",
+      "count": 59
+    },
+    {
+      "term": "vehicle",
+      "count": 58
+    },
+    {
+      "term": "back",
+      "count": 52
+    },
+    {
+      "term": "reservation",
+      "count": 49
+    },
+    {
+      "term": "response",
+      "count": 47
+    },
+    {
+      "term": "card",
+      "count": 46
+    },
+    {
+      "term": "now",
+      "count": 46
+    },
+    {
+      "term": "months",
+      "count": 45
+    },
+    {
+      "term": "said",
+      "count": 45
+    },
+    {
+      "term": "day",
+      "count": 44
+    },
+    {
+      "term": "take",
+      "count": 44
+    },
+    {
+      "term": "rent",
+      "count": 43
+    },
+    {
+      "term": "email",
+      "count": 43
+    },
+    {
+      "term": "days",
+      "count": 42
+    },
+    {
+      "term": "property",
+      "count": 40
+    },
+    {
+      "term": "pay",
+      "count": 40
+    },
+    {
+      "term": "know",
+      "count": 39
+    },
+    {
+      "term": "garage",
+      "count": 38
+    },
+    {
+      "term": "phone",
+      "count": 37
+    },
+    {
+      "term": "paid",
+      "count": 37
+    },
+    {
+      "term": "charged",
+      "count": 36
+    },
+    {
+      "term": "owner",
+      "count": 35
+    },
+    {
+      "term": "like",
+      "count": 35
+    },
+    {
+      "term": "website",
+      "count": 33
+    },
+    {
+      "term": "payment",
+      "count": 33
+    },
+    {
+      "term": "move",
+      "count": 33
+    },
+    {
+      "term": "experience",
+      "count": 32
+    },
+    {
+      "term": "renter",
+      "count": 32
+    },
+    {
+      "term": "tried",
+      "count": 31
+    },
+    {
+      "term": "charge",
+      "count": 31
+    },
+    {
+      "term": "hosts",
+      "count": 31
+    },
+    {
+      "term": "sent",
+      "count": 30
+    },
+    {
+      "term": "away",
+      "count": 30
+    },
+    {
+      "term": "parking",
+      "count": 29
+    },
+    {
+      "term": "first",
+      "count": 28
+    }
+  ],
+  "top_bigrams": [
+    {
+      "term": "neighbor com",
+      "count": 122
+    },
+    {
+      "term": "customer service",
+      "count": 47
+    },
+    {
+      "term": "credit card",
+      "count": 25
+    },
+    {
+      "term": "stay away",
+      "count": 20
+    },
+    {
+      "term": "take money",
+      "count": 12
+    },
+    {
+      "term": "storage unit",
+      "count": 11
+    },
+    {
+      "term": "never never",
+      "count": 11
+    },
+    {
+      "term": "onsite host",
+      "count": 11
+    },
+    {
+      "term": "rented space",
+      "count": 10
+    },
+    {
+      "term": "parking space",
+      "count": 9
+    },
+    {
+      "term": "total scam",
+      "count": 9
+    },
+    {
+      "term": "storage owner",
+      "count": 9
+    },
+    {
+      "term": "host neighbor",
+      "count": 8
+    },
+    {
+      "term": "refund money",
+      "count": 8
+    },
+    {
+      "term": "car towed",
+      "count": 8
+    },
+    {
+      "term": "late fee",
+      "count": 8
+    },
+    {
+      "term": "several times",
+      "count": 7
+    },
+    {
+      "term": "days later",
+      "count": 7
+    },
+    {
+      "term": "phone number",
+      "count": 7
+    },
+    {
+      "term": "waste time",
+      "count": 7
+    },
+    {
+      "term": "insurance claim",
+      "count": 7
+    },
+    {
+      "term": "protection plan",
+      "count": 6
+    },
+    {
+      "term": "vehicle towed",
+      "count": 6
+    },
+    {
+      "term": "month later",
+      "count": 6
+    },
+    {
+      "term": "sent email",
+      "count": 6
+    },
+    {
+      "term": "space neighbor",
+      "count": 6
+    },
+    {
+      "term": "zero stars",
+      "count": 6
+    },
+    {
+      "term": "scam scam",
+      "count": 6
+    },
+    {
+      "term": "let know",
+      "count": 6
+    },
+    {
+      "term": "start date",
+      "count": 6
+    },
+    {
+      "term": "approved host",
+      "count": 6
+    },
+    {
+      "term": "rent space",
+      "count": 5
+    },
+    {
+      "term": "storage space",
+      "count": 5
+    },
+    {
+      "term": "car stolen",
+      "count": 5
+    },
+    {
+      "term": "horrible customer",
+      "count": 5
+    },
+    {
+      "term": "neighbor said",
+      "count": 5
+    },
+    {
+      "term": "reservation day",
+      "count": 5
+    },
+    {
+      "term": "terms service",
+      "count": 5
+    },
+    {
+      "term": "contacted host",
+      "count": 5
+    },
+    {
+      "term": "horrible company",
+      "count": 5
+    },
+    {
+      "term": "last month",
+      "count": 5
+    },
+    {
+      "term": "cancelled reservation",
+      "count": 5
+    },
+    {
+      "term": "charge card",
+      "count": 5
+    },
+    {
+      "term": "card charged",
+      "count": 5
+    },
+    {
+      "term": "month rent",
+      "count": 5
+    },
+    {
+      "term": "neighbor support",
+      "count": 5
+    },
+    {
+      "term": "first month",
+      "count": 5
+    },
+    {
+      "term": "total loss",
+      "count": 5
+    },
+    {
+      "term": "additional month",
+      "count": 4
+    },
+    {
+      "term": "property owner",
+      "count": 4
+    }
+  ]
+}
