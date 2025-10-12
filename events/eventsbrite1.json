@@ -1,0 +1,960 @@
+[
+  {
+    "id": "1716913537609",
+    "name": "GRUPO EXTERMINADOR  LOS CAPOS DE MEXICO  LOS TERRIBLES DEL NORTE",
+    "url": "https://www.eventbrite.com/e/grupo-exterminador-los-capos-de-mexico-los-terribles-del-norte-tickets-1716913537609",
+    "language": "es-mx",
+    "start_date": "2025-10-11",
+    "start_time": "20:00",
+    "end_date": "2025-10-12",
+    "end_time": "02:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "Get ready to experience an unforgettable night with GRUPO EXTERMINADOR, LOS CAPOS DE MEXICO, and LOS TERRIBLES DEL NORTE!",
+    "organizer": {
+      "id": "26513197265",
+      "name": "Los Gruperos Inc,",
+      "url": "https://www.eventbrite.com/o/los-gruperos-inc-26513197265",
+      "followers": 1442
+    },
+    "venue": {
+      "id": "38610931",
+      "name": "EL BILLAR DE CONCORD",
+      "address": {
+        "address_1": "2395 MONUMENT BLVD",
+        "address_2": "",
+        "city": "CONCORD",
+        "region": "CA",
+        "postal_code": "94520",
+        "country": "US",
+        "latitude": "37.9596172",
+        "longitude": "-122.0353206",
+        "display": "2395 MONUMENT BLVD, CONCORD, CA 94520"
+      }
+    },
+    "ticket": {
+      "is_free": false,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "56.56 USD",
+      "max_price": "56.56 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1128546513%2F332113585657%2F1%2Foriginal.20250918-193130?auto=format%2Ccompress&q=75&sharp=10&s=59eb9864e1c59f8d26d6b86a913481f9",
+    "tags": [
+      "Music",
+      "Concert or Performance",
+      "Baile",
+      "California",
+      "Fiesta",
+      "Salon",
+      "Evento",
+      "Concord",
+      "grupoexterminador",
+      "somosgruperos",
+      "loscaposdemexico",
+      "billares"
+    ]
+  },
+  {
+    "id": "1671012967769",
+    "name": "Fair Oaks Family Fun Day!",
+    "url": "https://www.eventbrite.com/e/fair-oaks-family-fun-day-tickets-1671012967769",
+    "language": "es-mx",
+    "start_date": "2025-10-05",
+    "start_time": "12:00",
+    "end_date": "2025-10-05",
+    "end_time": "15:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "NBCC, Levantar, and  Mobilize Love present Fair Oaks Family Fun Day - a FREE event with music, food, resources, and fun!",
+    "organizer": {
+      "id": "75363023043",
+      "name": "Mobilize Love",
+      "url": "https://www.eventbrite.com/o/mobilize-love-75363023043",
+      "followers": 240
+    },
+    "venue": {
+      "id": "285967773",
+      "name": "Fair Oaks Community Center",
+      "address": {
+        "address_1": "2600 Middlefield Road",
+        "address_2": "",
+        "city": "Redwood City",
+        "region": "CA",
+        "postal_code": "94063",
+        "country": "US",
+        "latitude": "37.4774596",
+        "longitude": "-122.2130552",
+        "display": "2600 Middlefield Road, Redwood City, CA 94063"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1007029343%2F1907317291153%2F1%2Foriginal.20250411-192030?auto=format%2Ccompress&q=75&sharp=10&s=cf2b4266577cd123983b999a6431f0a9",
+    "tags": [
+      "Children & Youth ",
+      "Family & Education",
+      "Party or Social Gathering",
+      "Children",
+      "Family",
+      "Free",
+      "Food",
+      "Fun",
+      "Kids",
+      "Youth",
+      "Festival",
+      "Games",
+      "Raffle"
+    ]
+  },
+  {
+    "id": "1730971605669",
+    "name": "Consulado de Colombia - Fiesta de Navidad para niños",
+    "url": "https://www.eventbrite.com/e/entradas-consulado-de-colombia-fiesta-de-navidad-para-ninos-1730971605669",
+    "language": "es-es",
+    "start_date": "2025-12-13",
+    "start_time": "13:00",
+    "end_date": "2025-12-13",
+    "end_time": "18:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "El programa será completamente gratuito para los niños e incluirá obsequios, presentaciones musicales y actividades festivas.",
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "248682703",
+      "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+      "address": {
+        "address_1": "3975 McLaughlin Ave",
+        "address_2": "",
+        "city": "San Jose",
+        "region": "CA",
+        "postal_code": "95121",
+        "country": "US",
+        "latitude": "37.292139",
+        "longitude": "-121.814325",
+        "display": "3975 McLaughlin Ave, San Jose, CA 95121"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1131592673%2F2346067996753%2F1%2Foriginal.20250922-170529?auto=format%2Ccompress&q=75&sharp=10&s=ba5d39f0f576b35c61838c0a08729763",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1598155398819",
+    "name": "Clase de Ingles",
+    "url": "https://www.eventbrite.com/e/entradas-clase-de-ingles-1598155398819",
+    "language": "es-es",
+    "start_date": "2025-11-12",
+    "start_time": "19:30",
+    "end_date": "2025-11-12",
+    "end_time": "20:30",
+    "timezone": "America/Los_Angeles",
+    "summary": null,
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "248682703",
+      "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+      "address": {
+        "address_1": "3975 McLaughlin Ave",
+        "address_2": "",
+        "city": "San Jose",
+        "region": "CA",
+        "postal_code": "95121",
+        "country": "US",
+        "latitude": "37.292139",
+        "longitude": "-121.814325",
+        "display": "3975 McLaughlin Ave, San Jose, CA 95121"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1097678563%2F2346067996753%2F1%2Foriginal.20250817-031632?auto=format%2Ccompress&q=75&sharp=10&s=b94c1484d398bd42952bb8ee35e2f483",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1704323269779",
+    "name": "¡El 13.º Festival anual de salud del Distrito 10!",
+    "url": "https://www.eventbrite.com/e/el-13o-festival-anual-de-salud-del-distrito-10-tickets-1704323269779",
+    "language": "es-mx",
+    "start_date": "2025-10-18",
+    "start_time": "11:00",
+    "end_date": "2025-10-18",
+    "end_time": "16:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "Se organiza en Distrito 10, donde habrá alegría colectiva, vecinos, profesionales y socios para nutrir el cuerpo, la mente y el espíritu.",
+    "organizer": {
+      "id": "114084321981",
+      "name": "Southeast Community Center",
+      "url": "https://www.eventbrite.com/o/southeast-community-center-114084321981",
+      "followers": 16
+    },
+    "venue": {
+      "id": "287289323",
+      "name": "Southeast Community Center",
+      "address": {
+        "address_1": "1550 Evans Avenue",
+        "address_2": "",
+        "city": "San Francisco",
+        "region": "CA",
+        "postal_code": "94124",
+        "country": "US",
+        "latitude": "37.743136",
+        "longitude": "-122.3868993",
+        "display": "1550 Evans Avenue, San Francisco, CA 94124"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142182953%2F2112827321373%2F1%2Foriginal.20251002-034515?auto=format%2Ccompress&q=75&sharp=10&s=737de13fa49b1983b59d165bec9acef5",
+    "tags": [
+      "Personal health",
+      "Health & Wellness",
+      "Festival or Fair",
+      "Health",
+      "Festival",
+      "Annual",
+      "13th",
+      "District10"
+    ]
+  },
+  {
+    "id": "1571928503469",
+    "name": "Equilibra Tu Cuerpo",
+    "url": "https://www.eventbrite.com/e/equilibra-tu-cuerpo-tickets-1571928503469",
+    "language": "es-mx",
+    "start_date": "2025-10-07",
+    "start_time": "13:00",
+    "end_date": "2025-10-07",
+    "end_time": "14:30",
+    "timezone": "America/Los_Angeles",
+    "summary": "Aprende a fortalecer tu cuerpo y mejorar tu equilibrio para prevenir caídas.",
+    "organizer": {
+      "id": "77671107323",
+      "name": "Aspire Health",
+      "url": "https://www.eventbrite.com/o/aspire-health-77671107323",
+      "followers": 183
+    },
+    "venue": {
+      "id": "281293803",
+      "name": "Montage Wellness Center - Salinas",
+      "address": {
+        "address_1": "1910 North Davis Road",
+        "address_2": "",
+        "city": "Salinas",
+        "region": "CA",
+        "postal_code": "93907",
+        "country": "US",
+        "latitude": "36.7185058",
+        "longitude": "-121.66716",
+        "display": "1910 North Davis Road, Salinas, CA 93907"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F697159289%2F1973204143103%2F1%2Foriginal.20240214-171711?auto=format%2Ccompress&q=75&sharp=10&s=d9fc32d3e69587ee58d5a8ba3146c1f4",
+    "tags": [
+      "Personal health",
+      "Health & Wellness",
+      "Class, Training, or Workshop",
+      "Health",
+      "Wellness",
+      "Fitness",
+      "Balance",
+      "Body",
+      "Fallprevention"
+    ]
+  },
+  {
+    "id": "1571982404689",
+    "name": "Corazón saludable",
+    "url": "https://www.eventbrite.com/e/corazon-saludable-tickets-1571982404689",
+    "language": "es-mx",
+    "start_date": "2025-10-21",
+    "start_time": "13:00",
+    "end_date": "2025-10-21",
+    "end_time": "14:30",
+    "timezone": "America/Los_Angeles",
+    "summary": "Aprende cómo mantener tu corazón saludable y luego únete a nosotros en una actividad de movimiento grupal.",
+    "organizer": {
+      "id": "77671107323",
+      "name": "Aspire Health",
+      "url": "https://www.eventbrite.com/o/aspire-health-77671107323",
+      "followers": 183
+    },
+    "venue": {
+      "id": "281942033",
+      "name": "Montage Wellness Center - Salinas",
+      "address": {
+        "address_1": "1910 North Davis Road",
+        "address_2": "",
+        "city": "Salinas",
+        "region": "CA",
+        "postal_code": "93907",
+        "country": "US",
+        "latitude": "36.7185058",
+        "longitude": "-121.66716",
+        "display": "1910 North Davis Road, Salinas, CA 93907"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F717006699%2F1973204143103%2F1%2Foriginal.20240311-225943?auto=format%2Ccompress&q=75&sharp=10&s=a2586a5e24997585a12eee4122e8f9d8",
+    "tags": [
+      "Personal health",
+      "Health & Wellness",
+      "Class, Training, or Workshop",
+      "Health",
+      "Wellness",
+      "Hearthealth",
+      "heart_health"
+    ]
+  },
+  {
+    "id": "1571983718619",
+    "name": "Hábitos saludables dondequiera que vayas",
+    "url": "https://www.eventbrite.com/e/habitos-saludables-dondequiera-que-vayas-tickets-1571983718619",
+    "language": "es-mx",
+    "start_date": "2025-11-04",
+    "start_time": "13:00",
+    "end_date": "2025-11-04",
+    "end_time": "14:30",
+    "timezone": "America/Los_Angeles",
+    "summary": "Incorpora opciones saludables en tu rutina diaria, sin importar tu ubicación o horario.",
+    "organizer": {
+      "id": "77671107323",
+      "name": "Aspire Health",
+      "url": "https://www.eventbrite.com/o/aspire-health-77671107323",
+      "followers": 183
+    },
+    "venue": {
+      "id": "281942033",
+      "name": "Montage Wellness Center - Salinas",
+      "address": {
+        "address_1": "1910 North Davis Road",
+        "address_2": "",
+        "city": "Salinas",
+        "region": "CA",
+        "postal_code": "93907",
+        "country": "US",
+        "latitude": "36.7185058",
+        "longitude": "-121.66716",
+        "display": "1910 North Davis Road, Salinas, CA 93907"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F717008279%2F1973204143103%2F1%2Foriginal.20240311-230153?auto=format%2Ccompress&q=75&sharp=10&s=5df38ed11636aad49689c3b4f06775e6",
+    "tags": [
+      "Personal health",
+      "Health & Wellness",
+      "Class, Training, or Workshop",
+      "Health",
+      "Wellness",
+      "Nutrition",
+      "Healthyhabits"
+    ]
+  },
+  {
+    "id": "1415991281039",
+    "name": "Actividad de rama misional/Branch missionary activity",
+    "url": "https://www.eventbrite.com/e/entradas-actividad-de-rama-misionalbranch-missionary-activity-1415991281039",
+    "language": "es-es",
+    "start_date": "2025-11-12",
+    "start_time": "19:00",
+    "end_date": "2025-11-12",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "Estan todos invitados a actividades divertidas de los misoneros",
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "251188493",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "255 East Alvin Drive",
+        "address_2": "",
+        "city": "Salinas",
+        "region": "CA",
+        "postal_code": "93906-2405",
+        "country": "US",
+        "latitude": "36.7079612",
+        "longitude": "-121.6471335",
+        "display": "255 East Alvin Drive, Salinas, CA 93906-2405"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1054456133%2F2346067996753%2F1%2Foriginal.20250617-020127?auto=format%2Ccompress&q=75&sharp=10&s=1d0bd72b7dada55572c79a022d2b240e",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1415991331189",
+    "name": "Clases de ingles/English classes",
+    "url": "https://www.eventbrite.com/e/entradas-clases-de-inglesenglish-classes-1415991331189",
+    "language": "es-es",
+    "start_date": "2025-11-12",
+    "start_time": "19:00",
+    "end_date": "2025-11-12",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "Clases para todos los que quieren aprender ingles",
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "251188493",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "255 East Alvin Drive",
+        "address_2": "",
+        "city": "Salinas",
+        "region": "CA",
+        "postal_code": "93906-2405",
+        "country": "US",
+        "latitude": "36.7079612",
+        "longitude": "-121.6471335",
+        "display": "255 East Alvin Drive, Salinas, CA 93906-2405"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1054456193%2F2346067996753%2F1%2Foriginal.20250617-020138?auto=format%2Ccompress&q=75&sharp=10&s=4895d306f8b67a5a80bc37d3e08c9857",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1754988260129",
+    "name": "Celebracion Navidena/Branch Christmas Celebration",
+    "url": "https://www.eventbrite.com/e/entradas-celebracion-navidenabranch-christmas-celebration-1754988260129",
+    "language": "es-es",
+    "start_date": "2025-12-13",
+    "start_time": "18:00",
+    "end_date": "2025-12-13",
+    "end_time": "20:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "Celebracion Navidena, el sabado 13 de diciembre de 6-8pm.",
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "244734843",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "806 Travis Boulevard",
+        "address_2": "",
+        "city": "Fairfield",
+        "region": "CA",
+        "postal_code": "94533-5036",
+        "country": "US",
+        "latitude": "38.258478",
+        "longitude": "-122.043461",
+        "display": "806 Travis Boulevard, Fairfield, CA 94533-5036"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1139228173%2F2346067996753%2F1%2Foriginal.20250929-201729?auto=format%2Ccompress&q=75&sharp=10&s=cd258880e22eb82027b2f5f6f2e0b00a",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1533460604949",
+    "name": "Adoración Dominical al Señor Jesucristo",
+    "url": "https://www.eventbrite.com/e/entradas-adoracion-dominical-al-senor-jesucristo-1533460604949",
+    "language": "es-es",
+    "start_date": "2025-10-19",
+    "start_time": "10:00",
+    "end_date": "2025-10-19",
+    "end_time": "11:00",
+    "timezone": "America/Los_Angeles",
+    "summary": null,
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "272332393",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "2607 East Hatch Road",
+        "address_2": "",
+        "city": "Modesto",
+        "region": "CA",
+        "postal_code": "95351",
+        "country": "US",
+        "latitude": "37.60965",
+        "longitude": "-120.948679",
+        "display": "2607 East Hatch Road, Modesto, CA 95351"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082021993%2F2346067996753%2F1%2Foriginal.20250727-041540?auto=format%2Ccompress&q=75&sharp=10&s=78b3c440b73311bb3c72b4dfa31b8a41",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1533462691189",
+    "name": "Adoración al Señor Jesucristo cada Domingo.",
+    "url": "https://www.eventbrite.com/e/entradas-adoracion-al-senor-jesucristo-cada-domingo-1533462691189",
+    "language": "es-es",
+    "start_date": "2025-10-12",
+    "start_time": "10:00",
+    "end_date": "2025-10-12",
+    "end_time": "11:00",
+    "timezone": "America/Los_Angeles",
+    "summary": null,
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "272332393",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "2607 East Hatch Road",
+        "address_2": "",
+        "city": "Modesto",
+        "region": "CA",
+        "postal_code": "95351",
+        "country": "US",
+        "latitude": "37.60965",
+        "longitude": "-120.948679",
+        "display": "2607 East Hatch Road, Modesto, CA 95351"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082025033%2F2346067996753%2F1%2Foriginal.20250727-043217?auto=format%2Ccompress&q=75&sharp=10&s=f4bd140f371bdf857227000f951003a0",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1672179256169",
+    "name": "Recordando nuestros antepasados / Remembering our ancestors",
+    "url": "https://www.eventbrite.com/e/entradas-recordando-nuestros-antepasados-remembering-our-ancestors-1672179256169",
+    "language": "es-es",
+    "start_date": "2025-11-01",
+    "start_time": "17:00",
+    "end_date": "2025-11-01",
+    "end_time": "20:30",
+    "timezone": "America/Los_Angeles",
+    "summary": null,
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "272332393",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "2607 East Hatch Road",
+        "address_2": "",
+        "city": "Modesto",
+        "region": "CA",
+        "postal_code": "95351",
+        "country": "US",
+        "latitude": "37.60965",
+        "longitude": "-120.948679",
+        "display": "2607 East Hatch Road, Modesto, CA 95351"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1117016893%2F2346067996753%2F1%2Foriginal.20250908-020050?auto=format%2Ccompress&q=75&sharp=10&s=97c4fbcfa8fa59c00b1554f400d74cc4",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1693571310379",
+    "name": "Día de los muertos/Halloween",
+    "url": "https://www.eventbrite.com/e/entradas-dia-de-los-muertoshalloween-1693571310379",
+    "language": "es-es",
+    "start_date": "2025-11-01",
+    "start_time": "18:30",
+    "end_date": "2025-11-01",
+    "end_time": "21:00",
+    "timezone": "America/Los_Angeles",
+    "summary": null,
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "286951863",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "1550 Northpoint Parkway",
+        "address_2": "",
+        "city": "Santa Rosa",
+        "region": "CA",
+        "postal_code": "95407-7376",
+        "country": "US",
+        "latitude": "38.4156351",
+        "longitude": "-122.7408466",
+        "display": "1550 Northpoint Parkway, Santa Rosa, CA 95407-7376"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1122488113%2F2346067996753%2F1%2Foriginal.20250912-173130?auto=format%2Ccompress&q=75&sharp=10&s=2be0a54f0b960f4e7814aa8bdb901fde",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  },
+  {
+    "id": "1721639663579",
+    "name": "Familias al Aire Libre: Avistamiento de Aves  10-25-25",
+    "url": "https://www.eventbrite.com/e/familias-al-aire-libre-avistamiento-de-aves-10-25-25-registration-1721639663579",
+    "language": "es-mx",
+    "start_date": "2025-10-25",
+    "start_time": "11:00",
+    "end_date": "2025-10-25",
+    "end_time": "15:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "¡Acompañe a Sonoma Land Trust y a Ag+ Open Space para observar aves de la Marisma de Sears Point!",
+    "organizer": {
+      "id": "31667418009",
+      "name": "Sonoma Land Trust & Sonoma County Ag + Open Space",
+      "url": "https://www.eventbrite.com/o/sonoma-land-trust-sonoma-county-ag-open-space-31667418009",
+      "followers": 553
+    },
+    "venue": {
+      "id": "288017253",
+      "name": "Marisma de Sears Point via oficina de SLT",
+      "address": {
+        "address_1": "822 Fifth St",
+        "address_2": "",
+        "city": "Santa Rosa",
+        "region": "CA",
+        "postal_code": "95404",
+        "country": "US",
+        "latitude": "38.4427861",
+        "longitude": "-122.7099657",
+        "display": "822 Fifth St, Santa Rosa, CA 95404"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129710073%2F2046516059203%2F1%2Foriginal.20250919-211348?auto=format%2Ccompress&q=75&sharp=10&s=408b4e91abd7c75cf7fecdf01c7ab67a",
+    "tags": [
+      "Hiking",
+      "Travel & Outdoor",
+      "Tour",
+      "Nature",
+      "sonoma_county"
+    ]
+  },
+  {
+    "id": "1721058485259",
+    "name": "Familias al Aire Libre: Caminata Costera 11-22-25",
+    "url": "https://www.eventbrite.com/e/familias-al-aire-libre-caminata-costera-11-22-25-registration-1721058485259",
+    "language": "es-mx",
+    "start_date": "2025-11-22",
+    "start_time": "11:00",
+    "end_date": "2025-11-22",
+    "end_time": "16:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "¡Acompañe a Sonoma Land Trust y a Ag+ Open Space para una salida a la Preserva Costera Estero Americano!",
+    "organizer": {
+      "id": "31667418009",
+      "name": "Sonoma Land Trust & Sonoma County Ag + Open Space",
+      "url": "https://www.eventbrite.com/o/sonoma-land-trust-sonoma-county-ag-open-space-31667418009",
+      "followers": 553
+    },
+    "venue": {
+      "id": "287992753",
+      "name": "Preserva Costera Estero Americano via oficina de SLT",
+      "address": {
+        "address_1": "822 Fifth St",
+        "address_2": "",
+        "city": "Santa Rosa",
+        "region": "CA",
+        "postal_code": "95404",
+        "country": "US",
+        "latitude": "38.4427861",
+        "longitude": "-122.7099657",
+        "display": "822 Fifth St, Santa Rosa, CA 95404"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129552543%2F2046516059203%2F1%2Foriginal.20250919-182131?auto=format%2Ccompress&q=75&sharp=10&s=f1d1b6247ee5422c49abcab0c26489ef",
+    "tags": [
+      "Hiking",
+      "Travel & Outdoor",
+      "Tour",
+      "Nature",
+      "sonoma_county"
+    ]
+  },
+  {
+    "id": "1721300639549",
+    "name": "Familias al Aire Libre: Paseo y Picnic 12-13-25",
+    "url": "https://www.eventbrite.com/e/familias-al-aire-libre-paseo-y-picnic-12-13-25-registration-1721300639549",
+    "language": "es-mx",
+    "start_date": "2025-12-13",
+    "start_time": "11:00",
+    "end_date": "2025-12-13",
+    "end_time": "15:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "¡Acompañe a Sonoma Land Trust, Ag+ Open Space, Audubon Canyon Ranch para una salida a la Preserva de Bouverie!",
+    "organizer": {
+      "id": "31667418009",
+      "name": "Sonoma Land Trust & Sonoma County Ag + Open Space",
+      "url": "https://www.eventbrite.com/o/sonoma-land-trust-sonoma-county-ag-open-space-31667418009",
+      "followers": 553
+    },
+    "venue": {
+      "id": "288001973",
+      "name": "Preserva Bouverie via oficina de SLT",
+      "address": {
+        "address_1": "822 Fifth St",
+        "address_2": "",
+        "city": "Santa Rosa",
+        "region": "CA",
+        "postal_code": "95404",
+        "country": "US",
+        "latitude": "38.4427861",
+        "longitude": "-122.7099657",
+        "display": "822 Fifth St, Santa Rosa, CA 95404"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129633323%2F2046516059203%2F1%2Foriginal.20250919-194339?auto=format%2Ccompress&q=75&sharp=10&s=fda5f58d0e9a1fa2b8fe71493bca625a",
+    "tags": [
+      "Hiking",
+      "Travel & Outdoor",
+      "Tour",
+      "Nature",
+      "sonoma_county"
+    ]
+  },
+  {
+    "id": "1640742207109",
+    "name": "Sesión Informativa sobre MEHKO (Condado de Monterey)",
+    "url": "https://www.eventbrite.com/e/sesion-informativa-sobre-mehko-condado-de-monterey-tickets-1640742207109",
+    "language": "es-mx",
+    "start_date": "2025-10-09",
+    "start_time": "11:00",
+    "end_date": "2025-10-09",
+    "end_time": "13:00",
+    "timezone": "America/Los_Angeles",
+    "summary": "¡Acompáñenos y aprenda cómo puede lanzar o formalizar su negocio de comida desde casa a través del programa MEHKO!",
+    "organizer": {
+      "id": "3792240153",
+      "name": "El Pajaro Community Development Corp.",
+      "url": "https://www.eventbrite.com/o/el-pajaro-community-development-corp-3792240153",
+      "followers": 255
+    },
+    "venue": {
+      "id": "290198113",
+      "name": "Soledad City Hall",
+      "address": {
+        "address_1": "248 Main Street",
+        "address_2": "",
+        "city": "Soledad",
+        "region": "CA",
+        "postal_code": "93960",
+        "country": "US",
+        "latitude": "36.4284624",
+        "longitude": "-121.3274101",
+        "display": "248 Main Street, Soledad, CA 93960"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1107964013%2F59746519407%2F1%2Foriginal.20250828-184459?auto=format%2Ccompress&q=75&sharp=10&s=26528f365a4172bcf089c2993bc0b53c",
+    "tags": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Seminar or Talk",
+      "Cocina",
+      "Sesion",
+      "Operaciones",
+      "Informativa"
+    ]
+  },
+  {
+    "id": "1649591144519",
+    "name": "Actividad de la Rama Pionera Voleibol",
+    "url": "https://www.eventbrite.com/e/entradas-actividad-de-la-rama-pionera-voleibol-1649591144519",
+    "language": "es-es",
+    "start_date": "2025-10-17",
+    "start_time": "19:00",
+    "end_date": "2025-10-17",
+    "end_time": "21:30",
+    "timezone": "America/Los_Angeles",
+    "summary": "Voleibol, etc",
+    "organizer": {
+      "id": "94849127593",
+      "name": null,
+      "url": "https://www.eventbrite.com/o/94849127593",
+      "followers": 227
+    },
+    "venue": {
+      "id": "280875283",
+      "name": "The Church of Jesus Christ of Latter-day Saints",
+      "address": {
+        "address_1": "850 Pioneer Avenue",
+        "address_2": "",
+        "city": "Woodland",
+        "region": "CA",
+        "postal_code": "95776",
+        "country": "US",
+        "latitude": "38.669174",
+        "longitude": "-121.742731",
+        "display": "850 Pioneer Avenue, Woodland, CA 95776"
+      }
+    },
+    "ticket": {
+      "is_free": true,
+      "has_available_tickets": true,
+      "is_sold_out": false,
+      "min_price": "0.00 USD",
+      "max_price": "0.00 USD"
+    },
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1110346123%2F2346067996753%2F1%2Foriginal.20250901-074734?auto=format%2Ccompress&q=75&sharp=10&s=cf4ac476126760f750cd8977339db310",
+    "tags": [
+      "Religious/Spiritual",
+      "Music"
+    ]
+  }
+]

@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "306276835",
+    "title": "Hoboken Social Mixer 🍻 and Shmoozing 👨🏾‍🤝‍👨🏽💬👩🏿‍🤝‍👩🏾",
+    "dateTime": "2025-10-15T18:00:00-04:00",
+    "description": "**UPDATE: We decided to make our social hangout local. RSVP on Bunch for the location:** [LetsBunch.com](https://www.letsbunch.com/hangout/836a5193-5f92-443b-96c8-5b660203de56?type=meetup)\n\n**RSVP on the Bunch app is required.**\n\nFor new peeps here, we're a JC group that puts on free events and is welcoming to everyone! We believe in making society more open, but in a secure way - that's why we started a free hangout app Jan'25 where we can easily communicate and keep track of real accounts. You can also create hangouts around your schedule and invite our entire network! Stuff like \"Meet new locals over coffee\", \"Let's work togehter\", \"Let's go for a walk\" ... anyone can create these on Bunch - [LetsBunch.com](https://www.letsbunch.com)\n\n🥳",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/meetup-group-mlutqiwy/events/306276835/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "526361013",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/a/0/3/5/highres_526361013.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "36614867",
+      "name": "Jersey City Social - 🍓 letsbunch.com 🍓",
+      "urlname": "meetup-group-mlutqiwy",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "514855292",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/d/7/f/c/highres_514855292.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.76,
+        "total_ratings": 919
+      }
+    },
+    "rsvps": {
+      "total_count": 418,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "6612943",
+          "name": "Aleksandra",
+          "photo": {
+            "id": "322406621",
+            "source": "https://secure.meetupstatic.com/photos/member/6/7/f/d/highres_322406621.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "397017551",
+          "name": "Sarthak Arora",
+          "photo": {
+            "id": "315884306",
+            "source": "https://secure.meetupstatic.com/photos/member/a/d/1/2/highres_315884306.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "336336900",
+          "name": "Shawn Chacko",
+          "photo": {
+            "id": "306019725",
+            "source": "https://secure.meetupstatic.com/photos/member/4/d/0/d/highres_306019725.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "43709862",
+          "name": "Zee Zygimantas",
+          "photo": {
+            "id": "322131943",
+            "source": "https://secure.meetupstatic.com/photos/member/c/a/e/7/highres_322131943.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "273234082",
+          "name": "maya",
+          "photo": {
+            "id": "322283007",
+            "source": "https://secure.meetupstatic.com/photos/member/5/9/d/f/highres_322283007.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "338771276",
+          "name": "Kevin Zhou"
+        },
+        {
+          "is_host": false,
+          "user_id": "467979687",
+          "name": "Aimee-Haruna",
+          "photo": {
+            "id": "322304285",
+            "source": "https://secure.meetupstatic.com/photos/member/a/c/f/d/highres_322304285.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "362315458",
+          "name": "Mamed Aliyev",
+          "photo": {
+            "id": "322385621",
+            "source": "https://secure.meetupstatic.com/photos/member/1/5/f/5/highres_322385621.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "467300151",
+          "name": "Rishipal Sawhney"
+        },
+        {
+          "is_host": false,
+          "user_id": "383734792",
+          "name": "علي الشريف",
+          "photo": {
+            "id": "322416988",
+            "source": "https://secure.meetupstatic.com/photos/member/9/0/7/c/highres_322416988.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "362755376",
+          "name": "MO Abdull",
+          "photo": {
+            "id": "318368390",
+            "source": "https://secure.meetupstatic.com/photos/member/2/0/c/6/highres_318368390.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "214742935",
+          "name": "Kalp Shah",
+          "photo": {
+            "id": "323438138",
+            "source": "https://secure.meetupstatic.com/photos/member/9/4/f/a/highres_323438138.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "456264046",
+          "name": "Yash Gangal",
+          "photo": {
+            "id": "321993008",
+            "source": "https://secure.meetupstatic.com/photos/member/8/0/f/0/highres_321993008.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "376798507",
+          "name": "Ellen",
+          "photo": {
+            "id": "321694325",
+            "source": "https://secure.meetupstatic.com/photos/member/8/6/1/5/highres_321694325.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "336571274",
+          "name": "Dean Wiltshire",
+          "photo": {
+            "id": "314970097",
+            "source": "https://secure.meetupstatic.com/photos/member/7/5/9/1/highres_314970097.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "469552395",
+          "name": "choglloprisci",
+          "photo": {
+            "id": "322483252",
+            "source": "https://secure.meetupstatic.com/photos/member/a/8/f/4/highres_322483252.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "13590343",
+          "name": "MIGUEL ANGEL PAREDES",
+          "photo": {
+            "id": "318367232",
+            "source": "https://secure.meetupstatic.com/photos/member/1/c/4/0/highres_318367232.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "243843656",
+          "name": "Sofia",
+          "photo": {
+            "id": "287706467",
+            "source": "https://secure.meetupstatic.com/photos/member/1/9/4/3/highres_287706467.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "12344506",
+          "name": "Magesh",
+          "photo": {
+            "id": "312797128",
+            "source": "https://secure.meetupstatic.com/photos/member/4/2/e/8/highres_312797128.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "367134815",
+          "name": "Ik117",
+          "photo": {
+            "id": "321920100",
+            "source": "https://secure.meetupstatic.com/photos/member/4/e/8/4/highres_321920100.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "311000848",
+    "title": "Spark! Session",
+    "dateTime": "2025-10-21T12:00:00-04:00",
+    "description": "**Event Title**\nSpark! Toronto — Feel More Alive in 20–25 Minutes (Every 2 Weeks)\n\n**Date & Time**\nTuesday, September 23 · 12:00–12:30 PM (EDT)\nLocation: Online · Zoom (link sent after RSVP)\n\n***\n\n## ✨ Why Spark?\n\nIt began with a spontaneous 10-minute conversation that left us both clearer, more energized, and more alive. Just a spark — but it shifted something. That moment made me wonder: *What if more people had that kind of space in their week?*\n\nSince then, Spark! has been happening regularly — and it’s already making a difference for people around the world. Now it’s coming to **you.**\n\n***\n\n## ✨ What You’ll Gain with Spark!\n\nYou’re already juggling projects, dreams, and responsibilities. Spark! is your space to step out of the noise and step back into what matters most to you.\n\nBy joining Spark!, you’ll:\n\n* **Claim a reset in your week** — a 20–25 minute pause that refreshes your mind, lifts your energy, and gives you more to bring back to your work and life.\n* **Be seen and heard in small, meaningful conversations** (2–3 people) where your voice matters and your presence sparks something new for others too.\n* **Walk away recharged** — lighter, clearer, and carrying fresh ideas or perspectives you didn’t have before.\n* **Expand your circle naturally** — meet like-hearted people you might never cross paths with otherwise, without pressure or performance.\n* **Stay connected to momentum** — receive reflections and updates between sessions that keep the spark alive.\n\nSpark! is designed for real people with full lives. It doesn’t add to your to-do list — it gives back to you.\n\nIt’s not networking. It’s not therapy. It’s not another meeting.\n👉 It’s connection, curiosity, and creative oxygen.\n\n**Short enough to fit in your day. Deep enough to shift your week.**\n\n***\n\n## 🎯 Who It’s For\n\n* Creatives, entrepreneurs, doers, dreamers\n* People in transition (new projects, new roles, retirement)\n* Anyone craving more connection in their week\n* You, if you want to feel a little more alive\n\nSubscribe here: [https://mailchi.mp/3b38c9920584/spark-sessions](https://mailchi.mp/3b38c9920584/spark-sessions)\n\n## 💸 Cost\n\nFree\n(If Spark gives you something of value, you’ll have the option to support future sessions with a small donation.)\n\n***\n\nCome as you are—coffee, curiosity, and all.\nWarmly,\nDavid (Organizer)\n\n**SPARK: Feel More Alive**\n*Real Connection. Creative Oxygen. Feel the Shift.*",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/spark-feel-more-alive-in-20-minutes-every-2-weeks/events/311000848/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "529970350",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/c/4/a/e/highres_529970350.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "38171273",
+      "name": "“Spark!  — Feel More Alive in 20 Minutes (Every 2 Weeks)”",
+      "urlname": "spark-feel-more-alive-in-20-minutes-every-2-weeks",
+      "timezone": "America/Toronto",
+      "photo": {
+        "id": "529970350",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/c/4/a/e/highres_529970350.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.0,
+        "total_ratings": 1
+      }
+    },
+    "rsvps": {
+      "total_count": 11,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "473975056",
+          "name": "David J Adams",
+          "photo": {
+            "id": "323263443",
+            "source": "https://secure.meetupstatic.com/photos/member/a/9/b/3/highres_323263443.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "174896322",
+          "name": "Hashem Heravan",
+          "photo": {
+            "id": "260818120",
+            "source": "https://secure.meetupstatic.com/photos/member/e/3/0/8/highres_260818120.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "206452722",
+          "name": "Neha ",
+          "photo": {
+            "id": "323716972",
+            "source": "https://secure.meetupstatic.com/photos/member/4/2/4/c/highres_323716972.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "225599378",
+          "name": "Christian Ravera",
+          "photo": {
+            "id": "266017846",
+            "source": "https://secure.meetupstatic.com/photos/member/9/3/d/6/highres_266017846.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "347585274",
+          "name": "Gina",
+          "photo": {
+            "id": "324088336",
+            "source": "https://secure.meetupstatic.com/photos/member/6/e/b/0/highres_324088336.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "416814382",
+          "name": "Beatrice Vaccari",
+          "photo": {
+            "id": "319073951",
+            "source": "https://secure.meetupstatic.com/photos/member/d/2/b/f/highres_319073951.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "4899228",
+          "name": "Beth",
+          "photo": {
+            "id": "5389634",
+            "source": "https://secure.meetupstatic.com/photos/member/c/1/e/2/highres_5389634.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "195707566",
+          "name": "Karen Herman",
+          "photo": {
+            "id": "324149234",
+            "source": "https://secure.meetupstatic.com/photos/member/7/2/3/2/highres_324149234.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "32288312",
+          "name": "Donicka",
+          "photo": {
+            "id": "319903191",
+            "source": "https://secure.meetupstatic.com/photos/member/a/8/b/7/highres_319903191.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "375065379",
+          "name": "Susannah",
+          "photo": {
+            "id": "324156606",
+            "source": "https://secure.meetupstatic.com/photos/member/8/e/f/e/highres_324156606.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476047248",
+          "name": "E m ma",
+          "photo": {
+            "id": "324019241",
+            "source": "https://secure.meetupstatic.com/photos/member/4/b/2/9/highres_324019241.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every 2 weeks on Tuesday until February 28, 2026"
+    }
+  },
+  {
+    "id": "311065433",
+    "title": "Let's go to the Poster House!!!",
+    "dateTime": "2025-10-17T17:45:00-04:00",
+    "description": "Hey yo! Let's go ..........................to the Poster House! This place has posters! Lots of em! It's FREE on FRIDAY! And on this day there's some mask printing event for $10 thats optional if you wanna do it.And theres some band called Whisper Doll playing and the tickets seem to be free if you just click where it says events and you can get 2.They sound kinda like a sad 90s band if thats what youre into.Here's some info about the stuff I mentioned!\n\nhttps://posterhouse.org/exhibitions/\nhttps://posterhouse.org/events\n\nIll wait in the basement area for 15 or 20 minutes so the latecomers have a chance to make it so we can try to look at the posters together.If you come late just call me and I'll try to find you.I dont really check messages on this site during the event so just call or text.\n\nI dont really know if we are gonna eat after the event cause its hard to find a spot that everyone agrees on.Most likely we'll enjoy the museum and then go back to our lives of quiet desperation.\n\nLook for a weird socially awkward bald guy awkwardly standing there in the awkward basement.That's me.Come say Hi.\n\nNick\n631 - 507 - 6820",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/socially-awkward-but-im-trying/events/311065433/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "530224482",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/1/1/8/2/highres_530224482.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "37403833",
+      "name": "Socially Awkward but I'm Trying",
+      "urlname": "socially-awkward-but-im-trying",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "519067356",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/1/c/b/c/highres_519067356.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.66,
+        "total_ratings": 370
+      }
+    },
+    "rsvps": {
+      "total_count": 160,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "362301888",
+          "name": "Nick",
+          "photo": {
+            "id": "317317871",
+            "source": "https://secure.meetupstatic.com/photos/member/9/3/e/f/highres_317317871.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "12123088",
+          "name": "Ezenwa A.",
+          "photo": {
+            "id": "251575286",
+            "source": "https://secure.meetupstatic.com/photos/member/d/7/f/6/highres_251575286.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "9276435",
+          "name": "LB",
+          "photo": {
+            "id": "288126650",
+            "source": "https://secure.meetupstatic.com/photos/member/1/9/f/a/highres_288126650.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "316957795",
+          "name": "Shavon",
+          "photo": {
+            "id": "323943213",
+            "source": "https://secure.meetupstatic.com/photos/member/c/8/d/highres_323943213.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "327158580",
+          "name": "E. Whitley",
+          "photo": {
+            "id": "318371947",
+            "source": "https://secure.meetupstatic.com/photos/member/2/e/a/b/highres_318371947.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "194477677",
+          "name": "Prince Bonhomme",
+          "photo": {
+            "id": "323970142",
+            "source": "https://secure.meetupstatic.com/photos/member/7/5/b/e/highres_323970142.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "453866456",
+          "name": "peter"
+        },
+        {
+          "is_host": false,
+          "user_id": "373055587",
+          "name": "Jennifer G",
+          "photo": {
+            "id": "318404925",
+            "source": "https://secure.meetupstatic.com/photos/member/a/f/7/d/highres_318404925.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "8640856",
+          "name": "Eddie C",
+          "photo": {
+            "id": "318629046",
+            "source": "https://secure.meetupstatic.com/photos/member/7/1/7/6/highres_318629046.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "380683073",
+          "name": "Kuralay ",
+          "photo": {
+            "id": "323508991",
+            "source": "https://secure.meetupstatic.com/photos/member/b/f/5/f/highres_323508991.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474737877",
+          "name": "Vid",
+          "photo": {
+            "id": "324159427",
+            "source": "https://secure.meetupstatic.com/photos/member/9/a/0/3/highres_324159427.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "2806195",
+          "name": "Steven",
+          "photo": {
+            "id": "324098060",
+            "source": "https://secure.meetupstatic.com/photos/member/9/4/a/c/highres_324098060.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "215376125",
+          "name": "David Mordigal",
+          "photo": {
+            "id": "298093262",
+            "source": "https://secure.meetupstatic.com/photos/member/3/3/c/e/highres_298093262.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476022576",
+          "name": "idasilver637",
+          "photo": {
+            "id": "324059167",
+            "source": "https://secure.meetupstatic.com/photos/member/e/7/1/f/highres_324059167.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "234433823",
+          "name": "Steve",
+          "photo": {
+            "id": "317259153",
+            "source": "https://secure.meetupstatic.com/photos/member/9/8/f/1/highres_317259153.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "87876202",
+          "name": "Sekou Traore",
+          "photo": {
+            "id": "314007480",
+            "source": "https://secure.meetupstatic.com/photos/member/6/b/5/8/highres_314007480.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "10468074",
+          "name": "Brian",
+          "photo": {
+            "id": "318627266",
+            "source": "https://secure.meetupstatic.com/photos/member/6/a/8/2/highres_318627266.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475627471",
+          "name": "Hi"
+        },
+        {
+          "is_host": false,
+          "user_id": "58539182",
+          "name": "Ravi",
+          "photo": {
+            "id": "317940040",
+            "source": "https://secure.meetupstatic.com/photos/member/2/8/highres_317940040.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476029802",
+          "name": "Archit",
+          "photo": {
+            "id": "324012148",
+            "source": "https://secure.meetupstatic.com/photos/member/2/f/7/4/highres_324012148.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "310525778",
+    "title": "[Wednesday] [Brookfield Place Location] Discussion: Resilience vs. Vulnerability",
+    "dateTime": "2025-10-15T19:00:00-04:00",
+    "description": "**Join our discord:** [https://discord.gg/sXmd8MRvmr](https://discord.gg/sXmd8MRvmr)\n\n**We're testing a new location for this event.** We'll gather outside the Amazon Go store on the second floor of Brookfield Place. The space is overlooking the Winter Garden and it is on the opposite side of the Hudson Eats food court. There are large circular stairs and two escalators heading up to the second floor.\n\n**Resilience vs. Vulnerability** looks at two sides of how we navigate life’s challenges. **Resilience** is our capacity to adapt, recover, and stay strong when difficulties arise—it’s the toughness that helps us keep moving forward. **Vulnerability**, in contrast, is about openness, honesty, and the courage to let ourselves be seen, even when it feels risky. While resilience helps us endure, vulnerability allows us to connect and grow. Together, they can create a balance—strength with authenticity, toughness with tenderness. In this discussion, we’ll explore how resilience and vulnerability interact, and what each reveals about how we relate to ourselves and others.\n\n1. How do you personally define resilience and vulnerability?\n2. Can you share a time when resilience helped you overcome a challenge?\n3. What role has vulnerability played in deepening your relationships?\n4. Do you see resilience and vulnerability as opposites, or can they work together?\n5. How does fear influence your willingness to be vulnerable?\n6. What are some misconceptions people have about resilience or vulnerability?\n7. How can showing vulnerability be a form of strength?\n8. Have you ever experienced a moment where resilience and vulnerability were both required?\n9. How does culture or upbringing affect the way we view resilience and vulnerability?\n10. Can too much resilience make it harder to connect with others authentically?\n11. What practices help you balance being resilient with allowing yourself to be vulnerable?\n\nThese are just some of the questions we will discuss during our meetup. No preparation needed, just bring yourself and a willingness to listen and share your thoughts.\n\nThe meetup will be structured in a way to promote small group discussion so everyone has a chance to listen, be heard, and really dive into the discussion.\n\n\\- \\- \\- \\- \\-\nDue to the increased group size, we're making a few changes to how our discussions will be structured.\n\nWe'll arrange tables of 6 participants each, without a moderator. When you arrive, please gather at the front near the escalator. Once enough people are assembled, I'll escort each group of 6 to their table to begin the discussion, and continue doing this as more participants arrive.\n\nEach table will receive a sheet containing the topic description and discussion questions. Feel free to take a photo or refer to the event page to have your own copy handy.\n\nThe official event time is from 7:00 pm to 9:00 pm, but some of us stay longer, transitioning into informal conversations beyond the topic. You're welcome to join any other ongoing discussions once your initial group wraps up and members start leaving.\n\nPlease do not go directly to a table upon arrival; instead, wait at the front area by the stairs. This approach will help us manage seating smoothly and ensure everyone enjoys an organized and engaging discussion experience.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/new-york-conversations/events/310525778/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 120,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "518343700",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/e/7/4/highres_518343700.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "36184537",
+      "name": "New York Interesting Conversations",
+      "urlname": "new-york-conversations",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "503142211",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/a/4/e/3/highres_503142211.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.63,
+        "total_ratings": 428
+      }
+    },
+    "rsvps": {
+      "total_count": 102,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "370860377",
+          "name": "Marek",
+          "photo": {
+            "id": "322261760",
+            "source": "https://secure.meetupstatic.com/photos/member/6/e/0/highres_322261760.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "301315823",
+          "name": "Utkarsha "
+        },
+        {
+          "is_host": false,
+          "user_id": "356421799",
+          "name": "Lilith",
+          "photo": {
+            "id": "318222673",
+            "source": "https://secure.meetupstatic.com/photos/member/a/6/b/1/highres_318222673.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474734939",
+          "name": "Marie"
+        },
+        {
+          "is_host": false,
+          "user_id": "193478639",
+          "name": "Maria E",
+          "photo": {
+            "id": "311135725",
+            "source": "https://secure.meetupstatic.com/photos/member/8/b/8/d/highres_311135725.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475356009",
+          "name": "viviana"
+        },
+        {
+          "is_host": false,
+          "user_id": "410230415",
+          "name": "Pranjal Manchanda",
+          "photo": {
+            "id": "322263956",
+            "source": "https://secure.meetupstatic.com/photos/member/f/7/4/highres_322263956.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "100255062",
+          "name": "James Ng",
+          "photo": {
+            "id": "312774313",
+            "source": "https://secure.meetupstatic.com/photos/member/d/4/2/9/highres_312774313.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "453866456",
+          "name": "peter"
+        },
+        {
+          "is_host": false,
+          "user_id": "342966905",
+          "name": "Ashish (Ash)",
+          "photo": {
+            "id": "324016948",
+            "source": "https://secure.meetupstatic.com/photos/member/4/2/3/4/highres_324016948.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "469426818",
+          "name": "M",
+          "photo": {
+            "id": "322475423",
+            "source": "https://secure.meetupstatic.com/photos/member/8/a/5/f/highres_322475423.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "2897639",
+          "name": "Asa ",
+          "photo": {
+            "id": "6360103",
+            "source": "https://secure.meetupstatic.com/photos/member/6/7/highres_6360103.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "43463082",
+          "name": "Evan",
+          "photo": {
+            "id": "323348726",
+            "source": "https://secure.meetupstatic.com/photos/member/2/2/1/6/highres_323348726.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475579357",
+          "name": "Saiku Barrie",
+          "photo": {
+            "id": "323856124",
+            "source": "https://secure.meetupstatic.com/photos/member/8/d/1/c/highres_323856124.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "129482482",
+          "name": "Michelle Middleton",
+          "photo": {
+            "id": "181731792",
+            "source": "https://secure.meetupstatic.com/photos/member/c/a/5/0/highres_181731792.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475895763",
+          "name": "Pro",
+          "photo": {
+            "id": "323961653",
+            "source": "https://secure.meetupstatic.com/photos/member/5/4/9/5/highres_323961653.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "296376367",
+          "name": "Diana Tenenbaum",
+          "photo": {
+            "id": "315069472",
+            "source": "https://secure.meetupstatic.com/photos/member/2/5/0/0/highres_315069472.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476045094",
+          "name": "karencomfoxdprisler",
+          "photo": {
+            "id": "324011321",
+            "source": "https://secure.meetupstatic.com/photos/member/2/c/3/9/highres_324011321.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "382198170",
+          "name": "Avid Williams",
+          "photo": {
+            "id": "317814486",
+            "source": "https://secure.meetupstatic.com/photos/member/d/4/d/6/highres_317814486.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "413405156",
+          "name": "Lola Vernerey",
+          "photo": {
+            "id": "318550073",
+            "source": "https://secure.meetupstatic.com/photos/member/2/7/5/9/highres_318550073.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every 2 weeks on Tuesday until January 18, 2026"
+    }
+  },
+  {
+    "id": "311410567",
+    "title": "Ladies Meet New Friends Coffee Hangout",
+    "dateTime": "2025-10-19T12:30:00-04:00",
+    "description": "**Hi ladies,**\nSorry to inform you, but due to the heavy rain forecast for today, we’re canceling the **Women’s Coffee & Ladies Meetup**. ☔️\nGood news — next weekend we’ll be having our\n**Coffee with Ladies**\n[https://api.muchohangouts.com/api/events/shareevent/68e923071f5e1e4dbe464037?type=general](https://api.muchohangouts.com/api/events/shareevent/68e923071f5e1e4dbe464037?type=general)\n**Women’s Bouquet: Flower & Compliment Exchange 🌸**\n[https://api.muchohangouts.com/api/events/shareevent/68e3bdb29c1b7e227a0366ce?type=general](https://api.muchohangouts.com/api/events/shareevent/68e3bdb29c1b7e227a0366ce?type=general)\nStay cozy and we can’t wait to see you then! 💐\n\nDon’t miss out! Reserve your spot now for Coffee with the Ladies this Sunday and join the fun:\n\nhttps://muchohangouts.com/event/68d1cc4ae0a0f082aebc7413\n\n;)\n**Looking to make new friends in the city?**\n💬👯‍♀️ Join us for a cozy Sunday coffee and conversations with amazing women!\n📍Tartinery Café \\- Bar \\| Park Ave \\- 90 Park Ave\\, New York\\, NY 10016\n🗓 Sunday 10/19\n⏰ 12:30 to 1:30 pm\nThis is a **ladies-only meetup** 💕—a space to talk, laugh, and truly connect. Let’s hang out, share stories, and enjoy a relaxing time together over coffee. 🌸\n\n🤝 MuchoHangouts.com is an organization that helps everyone meet new people and make new friends, in a simple and easy way!\n\\- Our events are donation\\-based—any donation is always appreciated\n• **Limited spots! Confirm your attendance now!**\n*Make sure to **reserve your spot** :*\nlink :\n\nhttps://api.muchohangouts.com/api/events/shareevent/68d1cc4ae0a0f082aebc7413?type=general\n\nThis event is hosted by MuchoHangouts.\n**Our goal is to create engaging and meaningful friendships**. 💫",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/nyc-speedfriending/events/311410567/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 47,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "529746472",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/1/9/4/8/highres_529746472.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "37857889",
+      "name": "NYC Speedfriending",
+      "urlname": "nyc-speedfriending",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "525520809",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/9/f/6/9/highres_525520809.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.58,
+        "total_ratings": 337
+      }
+    },
+    "rsvps": {
+      "total_count": 40,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "474541845",
+          "name": "Von",
+          "photo": {
+            "id": "323576999",
+            "source": "https://secure.meetupstatic.com/photos/member/d/e/a/7/highres_323576999.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474448181",
+          "name": "Paulette White"
+        },
+        {
+          "is_host": false,
+          "user_id": "33448682",
+          "name": "kim heismann",
+          "photo": {
+            "id": "115712112",
+            "source": "https://secure.meetupstatic.com/photos/member/7/d/7/0/highres_115712112.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476363952",
+          "name": "Della B",
+          "photo": {
+            "id": "324120519",
+            "source": "https://secure.meetupstatic.com/photos/member/2/0/7/highres_324120519.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475983966",
+          "name": "artemisbane92",
+          "photo": {
+            "id": "324112589",
+            "source": "https://secure.meetupstatic.com/photos/member/c/d/6/d/highres_324112589.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "413138664",
+          "name": "Maria Belen Ortega",
+          "photo": {
+            "id": "323625769",
+            "source": "https://secure.meetupstatic.com/photos/member/b/2/c/9/highres_323625769.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476021033",
+          "name": "Dannni foster "
+        },
+        {
+          "is_host": false,
+          "user_id": "182972333",
+          "name": "Christine S",
+          "photo": {
+            "id": "317052261",
+            "source": "https://secure.meetupstatic.com/photos/member/2/f/e/5/highres_317052261.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "2672996",
+          "name": "A",
+          "photo": {
+            "id": "9620732",
+            "source": "https://secure.meetupstatic.com/photos/member/5/0/f/c/highres_9620732.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "188897221",
+          "name": "Linda",
+          "photo": {
+            "id": "248387907",
+            "source": "https://secure.meetupstatic.com/photos/member/b/b/2/3/highres_248387907.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475521952",
+          "name": "Elif Susan Elcin ",
+          "photo": {
+            "id": "324002830",
+            "source": "https://secure.meetupstatic.com/photos/member/b/0/e/highres_324002830.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "470649951",
+          "name": "Kristen",
+          "photo": {
+            "id": "322648900",
+            "source": "https://secure.meetupstatic.com/photos/member/7/0/e/4/highres_322648900.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476334124",
+          "name": "Katlyn",
+          "photo": {
+            "id": "324111058",
+            "source": "https://secure.meetupstatic.com/photos/member/c/7/7/2/highres_324111058.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "340381559",
+          "name": "Kristen T",
+          "photo": {
+            "id": "316143907",
+            "source": "https://secure.meetupstatic.com/photos/member/f/4/3/highres_316143907.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475447750",
+          "name": "Intisa Chowdhury"
+        },
+        {
+          "is_host": false,
+          "user_id": "280746007",
+          "name": "paula molina"
+        },
+        {
+          "is_host": false,
+          "user_id": "296859936",
+          "name": "Fizza Jhandiya",
+          "photo": {
+            "id": "294745851",
+            "source": "https://secure.meetupstatic.com/photos/member/6/4/f/b/highres_294745851.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476312829",
+          "name": "hukhtapatel"
+        },
+        {
+          "is_host": false,
+          "user_id": "91036582",
+          "name": "Liz",
+          "photo": {
+            "id": "323834755",
+            "source": "https://secure.meetupstatic.com/photos/member/3/9/a/3/highres_323834755.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "262486136",
+          "name": "Jen",
+          "photo": {
+            "id": "313559858",
+            "source": "https://secure.meetupstatic.com/photos/member/e/9/d/2/highres_313559858.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "311265991",
+    "title": "🍹🌸🥢 Sunday Thai Brunch & Good Vibes 🌸🥢🍹",
+    "dateTime": "2025-10-12T14:00:00-04:00",
+    "description": "## 🍹🌸🥢 Sunday Thai Brunch & Good Vibes 🌸🥢🍹\n\nLet’s get together for a cozy Sunday brunch with flavorful Thai dishes, refreshing drinks like Thai tea & cocktails, plenty of laughs, and great convo! ✨💕\n📅 **Date:** Sunday, October 12, 2025\n⏰ **Time:** 2:00 PM – 4:00 PM\n📍 **Location:** [Chu Ros Thai NYC](https://maps.app.goo.gl/UeaaXFaonqz8YowGA) – 1590 Lexington Ave, New York, NY\n✨ **Details:**\n\n* Only **15 spots** available — serious RSVPs only (no-shows may be removed).\n* Please bring **cash** 💵 to make splitting the bill simple.\n* Host: **Steven** – 📞 646-238-9910\n\nLet’s brunch, sip, and enjoy an afternoon of fun vibes & delicious Thai food together! Wepa! 🎉",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/socially-awkward-but-im-trying/events/311265991/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 16,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "530439425",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/9/a/0/1/highres_530439425.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "37403833",
+      "name": "Socially Awkward but I'm Trying",
+      "urlname": "socially-awkward-but-im-trying",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "519067356",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/1/c/b/c/highres_519067356.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.66,
+        "total_ratings": 370
+      }
+    },
+    "rsvps": {
+      "total_count": 16,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "2806195",
+          "name": "Steven",
+          "photo": {
+            "id": "324098060",
+            "source": "https://secure.meetupstatic.com/photos/member/9/4/a/c/highres_324098060.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "366455185",
+          "name": "Janice",
+          "photo": {
+            "id": "320408770",
+            "source": "https://secure.meetupstatic.com/photos/member/2/2/4/2/highres_320408770.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "461048398",
+          "name": "Linda ",
+          "photo": {
+            "id": "322977367",
+            "source": "https://secure.meetupstatic.com/photos/member/e/0/1/7/highres_322977367.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474356648",
+          "name": "Daniel Sweeting",
+          "photo": {
+            "id": "323401095",
+            "source": "https://secure.meetupstatic.com/photos/member/4/4/7/highres_323401095.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "461002997",
+          "name": "Jay",
+          "photo": {
+            "id": "323626751",
+            "source": "https://secure.meetupstatic.com/photos/member/b/6/9/f/highres_323626751.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476148978",
+          "name": "Jasmine ",
+          "photo": {
+            "id": "324044683",
+            "source": "https://secure.meetupstatic.com/photos/member/a/e/8/b/highres_324044683.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "184397954",
+          "name": "Giselle Diaz",
+          "photo": {
+            "id": "324088889",
+            "source": "https://secure.meetupstatic.com/photos/member/7/0/d/9/highres_324088889.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "53720012",
+          "name": "Nikki Blankfeld",
+          "photo": {
+            "id": "323389948",
+            "source": "https://secure.meetupstatic.com/photos/member/c/3/1/c/highres_323389948.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "396032627",
+          "name": "Elena",
+          "photo": {
+            "id": "315764430",
+            "source": "https://secure.meetupstatic.com/photos/member/a/d/8/e/highres_315764430.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "1368380",
+          "name": "Chantal",
+          "photo": {
+            "id": "316227673",
+            "source": "https://secure.meetupstatic.com/photos/member/6/c/1/9/highres_316227673.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476365047",
+          "name": "drkarankumar999"
+        },
+        {
+          "is_host": false,
+          "user_id": "61007612",
+          "name": "Lívia Clarete",
+          "photo": {
+            "id": "273313552",
+            "source": "https://secure.meetupstatic.com/photos/member/3/4/f/0/highres_273313552.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "238618042",
+          "name": "Whitney",
+          "photo": {
+            "id": "294631566",
+            "source": "https://secure.meetupstatic.com/photos/member/7/b/4/e/highres_294631566.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "143725612",
+          "name": "Ori",
+          "photo": {
+            "id": "320506231",
+            "source": "https://secure.meetupstatic.com/photos/member/b/4/9/7/highres_320506231.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "10468074",
+          "name": "Brian",
+          "photo": {
+            "id": "318627266",
+            "source": "https://secure.meetupstatic.com/photos/member/6/a/8/2/highres_318627266.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "119010912",
+          "name": "Virginia Grieco",
+          "photo": {
+            "id": "323832075",
+            "source": "https://secure.meetupstatic.com/photos/member/2/f/2/b/highres_323832075.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "310869347",
+    "title": "Meet New Friends Where Connection Begins and Loneliness Ends",
+    "dateTime": "2025-10-16T18:30:00-04:00",
+    "description": "Since the pandemic began, we have helped people feel comfortable, confident, helping them open up and connect effortlessly with others.\n\nOpen Diner's warm and inclusive environment is available to you every 2 weeks: Meet new friends and FORGET YOUR SOCIAL FEARS.\n\nAnyone feels at home with us, even if you have trouble making friends.\n\nEvery 2 weeks, we pick a topic for discussion that we connect around. The atmosphere is always relaxed, friendly and warm.\n\nEveryone is welcome.\n\nThis week's discussion topic:\n**LIFE'S LESSONS -- Let's discuss the many ways in which each person develops a unique experience with which he can enrich the lives of others around them. Join us on Oct 16.**",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/opendiner/events/310869347/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "530587060",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/1/b/9/4/highres_530587060.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "33674259",
+      "name": "Open Diner: Connect and Be Heard",
+      "urlname": "opendiner",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "529019366",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/e/7/e/6/highres_529019366.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.67,
+        "total_ratings": 564
+      }
+    },
+    "rsvps": {
+      "total_count": 459,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "74239192",
+          "name": "Rono",
+          "photo": {
+            "id": "244042608",
+            "source": "https://secure.meetupstatic.com/photos/member/5/8/5/0/highres_244042608.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "211491598",
+          "name": "Bing Bing Brown",
+          "photo": {
+            "id": "323144297",
+            "source": "https://secure.meetupstatic.com/photos/member/a/d/0/9/highres_323144297.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "424856094",
+          "name": "Catalina Racu",
+          "photo": {
+            "id": "320661433",
+            "source": "https://secure.meetupstatic.com/photos/member/5/3/b/9/highres_320661433.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "473733856",
+          "name": "judimucci74",
+          "photo": {
+            "id": "323923515",
+            "source": "https://secure.meetupstatic.com/photos/member/a/9/f/b/highres_323923515.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475850500",
+          "name": "MzKaramelle ",
+          "photo": {
+            "id": "323974625",
+            "source": "https://secure.meetupstatic.com/photos/member/8/7/4/1/highres_323974625.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475859016",
+          "name": "tnqueenb3",
+          "photo": {
+            "id": "323949145",
+            "source": "https://secure.meetupstatic.com/photos/member/2/3/b/9/highres_323949145.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475859190",
+          "name": "Franklin A.",
+          "photo": {
+            "id": "323949284",
+            "source": "https://secure.meetupstatic.com/photos/member/2/4/4/4/highres_323949284.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "13661058",
+          "name": "Jeanne",
+          "photo": {
+            "id": "307311582",
+            "source": "https://secure.meetupstatic.com/photos/member/c/9/7/e/highres_307311582.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475882420",
+          "name": "leroyjett79",
+          "photo": {
+            "id": "323957348",
+            "source": "https://secure.meetupstatic.com/photos/member/4/3/c/4/highres_323957348.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475568304",
+          "name": "Ellen Schwartz",
+          "photo": {
+            "id": "323949133",
+            "source": "https://secure.meetupstatic.com/photos/member/2/3/a/d/highres_323949133.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474071717",
+          "name": "Pranu",
+          "photo": {
+            "id": "323298523",
+            "source": "https://secure.meetupstatic.com/photos/member/4/8/5/b/highres_323298523.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475669369",
+          "name": "Connie Schreiner",
+          "photo": {
+            "id": "323965869",
+            "source": "https://secure.meetupstatic.com/photos/member/6/5/0/d/highres_323965869.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "214989106",
+          "name": "Veronica Silver",
+          "photo": {
+            "id": "261040747",
+            "source": "https://secure.meetupstatic.com/photos/member/9/f/2/b/highres_261040747.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "134653",
+          "name": "JustJK",
+          "photo": {
+            "id": "318535236",
+            "source": "https://secure.meetupstatic.com/photos/member/d/7/c/4/highres_318535236.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "389207522",
+          "name": "Victoria",
+          "photo": {
+            "id": "323968083",
+            "source": "https://secure.meetupstatic.com/photos/member/6/d/b/3/highres_323968083.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "421496335",
+          "name": "Huguette",
+          "photo": {
+            "id": "321978572",
+            "source": "https://secure.meetupstatic.com/photos/member/4/8/8/c/highres_321978572.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "473113918",
+          "name": "David Tee",
+          "photo": {
+            "id": "323035883",
+            "source": "https://secure.meetupstatic.com/photos/member/d/a/4/b/highres_323035883.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "313687078",
+          "name": "Clau Mandelli",
+          "photo": {
+            "id": "323370681",
+            "source": "https://secure.meetupstatic.com/photos/member/7/7/d/9/highres_323370681.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "467298620",
+          "name": "Kathy Bolton-Abbott",
+          "photo": {
+            "id": "323937284",
+            "source": "https://secure.meetupstatic.com/photos/member/d/f/c/4/highres_323937284.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "299749145",
+          "name": "Damone miller",
+          "photo": {
+            "id": "323885344",
+            "source": "https://secure.meetupstatic.com/photos/member/1/4/e/0/highres_323885344.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every 2 weeks on Thursday until December 31, 2030"
+    }
+  },
+  {
+    "id": "311359239",
+    "title": "NY Professionals Happy Hour",
+    "dateTime": "2025-10-23T18:30:00-04:00",
+    "description": "Meet new people and/or old friends at *Wicked Willy's -* Greenwich Village edition!\n\nEscape into a Caribbean oasis of pirates, palm trees, and endless fun!\nVenue info: *[https://wickedwillys.com/](https://wickedwillys.com/)*\n\n**Join us and make new friends!**\n\nEvent is free to attend: no cover, no drink minimum.\n\nPS: Please sign up only if you plan on attending. #noflakes\n\nAppropriate profile photo is mandatory.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/ny-young-professionals/events/311359239/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 50,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "528976575",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/4/0/b/f/highres_528976575.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "36249835",
+      "name": "NY Young Professionals",
+      "urlname": "ny-young-professionals",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "503148647",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/b/e/0/7/highres_503148647.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.48,
+        "total_ratings": 260
+      }
+    },
+    "rsvps": {
+      "total_count": 60,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "116143682",
+          "name": "Nico D",
+          "photo": {
+            "id": "308079457",
+            "source": "https://secure.meetupstatic.com/photos/member/9/a/2/1/highres_308079457.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475591333",
+          "name": "Mehdi Ellouze",
+          "photo": {
+            "id": "324013036",
+            "source": "https://secure.meetupstatic.com/photos/member/3/2/e/c/highres_324013036.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "431086670",
+          "name": "Suresh ",
+          "photo": {
+            "id": "323034547",
+            "source": "https://secure.meetupstatic.com/photos/member/d/5/1/3/highres_323034547.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "301975870",
+          "name": "Samantha",
+          "photo": {
+            "id": "322618005",
+            "source": "https://secure.meetupstatic.com/photos/member/e/2/9/5/highres_322618005.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "473596638",
+          "name": "isabelleborohov"
+        },
+        {
+          "is_host": false,
+          "user_id": "473821554",
+          "name": "rachitjain7211"
+        },
+        {
+          "is_host": false,
+          "user_id": "473017835",
+          "name": "Edwin Rivas",
+          "photo": {
+            "id": "323385522",
+            "source": "https://secure.meetupstatic.com/photos/member/b/1/d/2/highres_323385522.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "214143325",
+          "name": "Oleksiy Ivanov",
+          "photo": {
+            "id": "318968497",
+            "source": "https://secure.meetupstatic.com/photos/member/2/1/3/1/highres_318968497.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "431564673",
+          "name": "Alessandra",
+          "photo": {
+            "id": "324124827",
+            "source": "https://secure.meetupstatic.com/photos/member/1/2/d/b/highres_324124827.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "298871706",
+          "name": "Priyank Singal",
+          "photo": {
+            "id": "318005791",
+            "source": "https://secure.meetupstatic.com/photos/member/1/6/9/f/highres_318005791.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "468727991",
+          "name": "Andreas",
+          "photo": {
+            "id": "323105570",
+            "source": "https://secure.meetupstatic.com/photos/member/1/5/c/2/highres_323105570.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "334288485",
+          "name": "Tasha",
+          "photo": {
+            "id": "308897710",
+            "source": "https://secure.meetupstatic.com/photos/member/4/5/2/e/highres_308897710.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "94371282",
+          "name": "Rahul N",
+          "photo": {
+            "id": "307225519",
+            "source": "https://secure.meetupstatic.com/photos/member/6/3/a/f/highres_307225519.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "469093401",
+          "name": "Ben Kramer",
+          "photo": {
+            "id": "322628165",
+            "source": "https://secure.meetupstatic.com/photos/member/1/f/e/5/highres_322628165.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474859317",
+          "name": "Elton Mugwambi "
+        },
+        {
+          "is_host": false,
+          "user_id": "474331733",
+          "name": "Hannah B",
+          "photo": {
+            "id": "324030811",
+            "source": "https://secure.meetupstatic.com/photos/member/7/8/5/b/highres_324030811.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "191638286",
+          "name": "Bea V.",
+          "photo": {
+            "id": "320659843",
+            "source": "https://secure.meetupstatic.com/photos/member/4/d/8/3/highres_320659843.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "329796513",
+          "name": "Kevin Gray",
+          "photo": {
+            "id": "312334462",
+            "source": "https://secure.meetupstatic.com/photos/member/8/6/9/e/highres_312334462.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "452453334",
+          "name": "Anastasia"
+        },
+        {
+          "is_host": false,
+          "user_id": "448801185",
+          "name": "zaishah1010",
+          "photo": {
+            "id": "321297202",
+            "source": "https://secure.meetupstatic.com/photos/member/d/f/7/2/highres_321297202.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "311359250",
+    "title": "Make friends over pub and grub!",
+    "dateTime": "2025-10-23T18:30:00-04:00",
+    "description": "Make some cool friends while we pub and grub at *Wicked Willy's -* Greenwich Village edition!\n\nEscape into a Caribbean oasis of pirates, palm trees, and endless fun!\nVenue info: *[https://wickedwillys.com/](https://wickedwillys.com/)*\n\n**Join us and make new friends!**\n\nEvent is free to attend: no cover, no drink minimum.\n\nPS: Please sign up only if you plan on attending. #noflakes\n\nAppropriate profile photo is mandatory.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/ny-pub-and-grub/events/311359250/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 50,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "528976621",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/4/0/e/d/highres_528976621.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "33638727",
+      "name": "NY Pub and Grub",
+      "urlname": "NY-Pub-and-Grub",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "500197959",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/9/4/4/7/highres_500197959.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.55,
+        "total_ratings": 295
+      }
+    },
+    "rsvps": {
+      "total_count": 44,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "116143682",
+          "name": "Nico D",
+          "photo": {
+            "id": "308079457",
+            "source": "https://secure.meetupstatic.com/photos/member/9/a/2/1/highres_308079457.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "3176663",
+          "name": "Dede",
+          "photo": {
+            "id": "6469959",
+            "source": "https://secure.meetupstatic.com/photos/member/c/3/2/7/highres_6469959.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "11643276",
+          "name": "nicole p",
+          "photo": {
+            "id": "323678722",
+            "source": "https://secure.meetupstatic.com/photos/member/9/7/4/2/highres_323678722.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "106382892",
+          "name": "cara"
+        },
+        {
+          "is_host": false,
+          "user_id": "9177384",
+          "name": "Heather ",
+          "photo": {
+            "id": "319674671",
+            "source": "https://secure.meetupstatic.com/photos/member/d/5/8/f/highres_319674671.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "349403569",
+          "name": "Meira",
+          "photo": {
+            "id": "308512062",
+            "source": "https://secure.meetupstatic.com/photos/member/c/b/5/e/highres_308512062.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "398283896",
+          "name": "Geoff",
+          "photo": {
+            "id": "321827664",
+            "source": "https://secure.meetupstatic.com/photos/member/b/a/3/0/highres_321827664.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "268831753",
+          "name": "Stacy",
+          "photo": {
+            "id": "319813127",
+            "source": "https://secure.meetupstatic.com/photos/member/3/3/4/7/highres_319813127.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "2221596",
+          "name": "Ruz",
+          "photo": {
+            "id": "307517315",
+            "source": "https://secure.meetupstatic.com/photos/member/4/3/a/3/highres_307517315.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "212308626",
+          "name": "Leanne",
+          "photo": {
+            "id": "259830065",
+            "source": "https://secure.meetupstatic.com/photos/member/7/5/7/1/highres_259830065.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "324057155",
+          "name": "ronett Bryant"
+        },
+        {
+          "is_host": false,
+          "user_id": "474061359",
+          "name": "lutingchen",
+          "photo": {
+            "id": "323393565",
+            "source": "https://secure.meetupstatic.com/photos/member/d/1/3/d/highres_323393565.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474113356",
+          "name": "Ajay Chintala",
+          "photo": {
+            "id": "323313136",
+            "source": "https://secure.meetupstatic.com/photos/member/8/1/7/0/highres_323313136.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "351666667",
+          "name": "Nancy Wong",
+          "photo": {
+            "id": "323501562",
+            "source": "https://secure.meetupstatic.com/photos/member/a/2/5/a/highres_323501562.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "473542861",
+          "name": "Soph Hu",
+          "photo": {
+            "id": "323222621",
+            "source": "https://secure.meetupstatic.com/photos/member/a/3/d/highres_323222621.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "231006638",
+          "name": "Michael",
+          "photo": {
+            "id": "268726626",
+            "source": "https://secure.meetupstatic.com/photos/member/b/6/2/2/highres_268726626.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "2849485",
+          "name": "LIZ",
+          "photo": {
+            "id": "310840836",
+            "source": "https://secure.meetupstatic.com/photos/member/9/f/8/4/highres_310840836.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "407312278",
+          "name": "Avi Shrivastava",
+          "photo": {
+            "id": "317613850",
+            "source": "https://secure.meetupstatic.com/photos/member/8/4/3/a/highres_317613850.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "257413096",
+          "name": "Pranav Garg",
+          "photo": {
+            "id": "323677719",
+            "source": "https://secure.meetupstatic.com/photos/member/9/3/5/7/highres_323677719.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "342966905",
+          "name": "Ashish (Ash)",
+          "photo": {
+            "id": "324016948",
+            "source": "https://secure.meetupstatic.com/photos/member/4/2/3/4/highres_324016948.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "308156518",
+    "title": "Brunch Social: Make New Friends",
+    "dateTime": "2025-10-19T12:30:00-04:00",
+    "description": "⚠️ **IMPORTANT: You must sign up and buy a ticket here to attend:**\n[https://groupvibe.com/](https://groupvibe.com/)\n\n**This is a curated, small-group meetup make new friends in New York.**\nEach meetup brings together 4–6 like-minded people for casual conversations over brunch. We use the Groupvibe platform to organize and ensure everyone’s a good fit.\n\n👉 **To attend, you’ll need to complete registration via this link:**\n[https://groupvibe.com](https://groupvibe.com)\nOnce you register, and **buy a ticket or become a Groupvibe member**, we’ll share the exact location and match you with your group.\n\n**Why this works:**\n\\* Smaller groups make real conversations easier\n\\* Matching helps avoid awkward dynamics\n**Note:**\nRSVPs here on Meetup don’t reflect total attendance. Many attendees register directly via our website.\n\nThis meetup is organized by **Groupvibe**, a small team passionate about helping people form meaningful friendships offline.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/nyc-sunday-social/events/308156518/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "528237160",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/d/f/4/8/highres_528237160.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "38050656",
+      "name": "NYC Sunday Social",
+      "urlname": "nyc-sunday-social",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "528237043",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/d/e/d/3/highres_528237043.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 1.0,
+        "total_ratings": 1
+      }
+    },
+    "rsvps": {
+      "total_count": 67,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "473169453",
+          "name": "Big Apple Social",
+          "photo": {
+            "id": "323037326",
+            "source": "https://secure.meetupstatic.com/photos/member/d/f/e/e/highres_323037326.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "457122859",
+          "name": "Vee"
+        },
+        {
+          "is_host": false,
+          "user_id": "430749016",
+          "name": "Saskia ",
+          "photo": {
+            "id": "321000450",
+            "source": "https://secure.meetupstatic.com/photos/member/1/c/2/highres_321000450.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "81084882",
+          "name": "Sunhee ",
+          "photo": {
+            "id": "98503292",
+            "source": "https://secure.meetupstatic.com/photos/member/a/9/1/c/highres_98503292.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "408725203",
+          "name": "Sara Cole"
+        },
+        {
+          "is_host": false,
+          "user_id": "275437228",
+          "name": "Noel"
+        },
+        {
+          "is_host": false,
+          "user_id": "243128677",
+          "name": "Charles  Hu",
+          "photo": {
+            "id": "272889845",
+            "source": "https://secure.meetupstatic.com/photos/member/2/6/7/5/highres_272889845.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "472883599",
+          "name": "its.akbarali07",
+          "photo": {
+            "id": "323072013",
+            "source": "https://secure.meetupstatic.com/photos/member/7/d/0/d/highres_323072013.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "470245652",
+          "name": "Gabby"
+        },
+        {
+          "is_host": false,
+          "user_id": "356421799",
+          "name": "Lilith",
+          "photo": {
+            "id": "318222673",
+            "source": "https://secure.meetupstatic.com/photos/member/a/6/b/1/highres_318222673.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474290955",
+          "name": "hinachaudhry1995",
+          "photo": {
+            "id": "323377339",
+            "source": "https://secure.meetupstatic.com/photos/member/9/1/d/b/highres_323377339.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474068284",
+          "name": "Aishwarya Pinisetti",
+          "photo": {
+            "id": "323297122",
+            "source": "https://secure.meetupstatic.com/photos/member/4/2/e/2/highres_323297122.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "183279321",
+          "name": "M. Lisa",
+          "photo": {
+            "id": "321351249",
+            "source": "https://secure.meetupstatic.com/photos/member/c/8/3/1/highres_321351249.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "428485192",
+          "name": "Stefania",
+          "photo": {
+            "id": "320791447",
+            "source": "https://secure.meetupstatic.com/photos/member/7/a/d/7/highres_320791447.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "471508657",
+          "name": "Divya Shah",
+          "photo": {
+            "id": "323235387",
+            "source": "https://secure.meetupstatic.com/photos/member/3/c/1/b/highres_323235387.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "394143878",
+          "name": "Grant Waters",
+          "photo": {
+            "id": "323138176",
+            "source": "https://secure.meetupstatic.com/photos/member/9/5/2/0/highres_323138176.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "275518146",
+          "name": "Christine Trott",
+          "photo": {
+            "id": "319558112",
+            "source": "https://secure.meetupstatic.com/photos/member/e/3/0/0/highres_319558112.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474659682",
+          "name": "benitalynch86",
+          "photo": {
+            "id": "323514507",
+            "source": "https://secure.meetupstatic.com/photos/member/d/4/e/b/highres_323514507.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474708578",
+          "name": "loki218687"
+        },
+        {
+          "is_host": false,
+          "user_id": "391319168",
+          "name": "Beth",
+          "photo": {
+            "id": "323506738",
+            "source": "https://secure.meetupstatic.com/photos/member/b/6/9/2/highres_323506738.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "311224092",
+    "title": "AUTUMN  MINGLE AND DANCE PARTY",
+    "dateTime": "2025-10-17T18:30:00-04:00",
+    "description": "Come celebrate the Autumn Season\nand join other Baby Boomers to\nexpand your social network!\n\nSee old friends and meet new people!\nCome alone or bring a friend!\nCome to Mingle or Come to Dance!\n\nAUTUMN DANCE PARTY\nFRIDAY, OCTOBER 17th\nDOORS OPEN: 6:30 PM\nPARTY GOES UNTIL: 10:30 PM\n\nM.J. SMITH'S\nThe Main Level\n9 EAST 45th Street\n(Btw 5th & Madison Ave)\nNew York City\n\n\\* DJ & DANCING\nMusic from the '50's, '60's, '70's\n\\*Freestyle \\*Hustle \\*Swing \\*Salsa \\*Line\n\n\\* FULL FOOD MENU AVAILABLE FOR\nPURCHASE UNTIL 8:30 PM\n\n\\*\\*ADMISSION: $20 Cash at Door\\*\\*\n\n\\* CENTRAL MIDTOWN LOCATION\nSubway: 4,5,6,7 and Shuttle to Grand Central\nSubway:D,F,M to Bryant Park/42nd St\nBus: M101, M102, M103, M1, M2, M3, M4, Q32 and M42.\nMetro-North and LIRR: to Grand Central\n\nLIABILITY WAIVER\n*By attending our event, you and your guests, directly and implicitly accept any and all potential risks involved, including but not limited to exposure to and/or contracting Covid-19, or any other contagious diseases, injuries or other mishaps. You agree to participate in these events completely at your own risk and take full responsibility for your own safety and well being, including those of your guests. You agree and thereby forever waive, exonerate and fully release and not hold the Organizer of this Meetup Group from any legal action or liability in any manner whatsoever. Your attendance at the event signifies that you have read and accept the terms of this liability waiver.*",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/newyorkcitybabyboomers/events/311224092/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "530390818",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/c/6/8/2/highres_530390818.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "386955",
+      "name": "New York City Baby Boomers Meetup Group",
+      "urlname": "newyorkcitybabyboomers",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "919278",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/4/b/4/e/highres_919278.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.41,
+        "total_ratings": 1409
+      }
+    },
+    "rsvps": {
+      "total_count": 44,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "3522428",
+          "name": "BoomerSocialDirector",
+          "photo": {
+            "id": "316280024",
+            "source": "https://secure.meetupstatic.com/photos/member/4/e/3/8/highres_316280024.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "5338655",
+          "name": "Merrill Wexler",
+          "photo": {
+            "id": "316658418",
+            "source": "https://secure.meetupstatic.com/photos/member/9/6/1/2/highres_316658418.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "340855225",
+          "name": "Susan Browne",
+          "photo": {
+            "id": "321047302",
+            "source": "https://secure.meetupstatic.com/photos/member/b/8/c/6/highres_321047302.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "191507529",
+          "name": "Sandy",
+          "photo": {
+            "id": "257496820",
+            "source": "https://secure.meetupstatic.com/photos/member/8/f/d/4/highres_257496820.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "467841234",
+          "name": "Magda Santiago",
+          "photo": {
+            "id": "322294196",
+            "source": "https://secure.meetupstatic.com/photos/member/8/5/9/4/highres_322294196.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "406746443",
+          "name": "Victoria",
+          "photo": {
+            "id": "317531302",
+            "source": "https://secure.meetupstatic.com/photos/member/2/c/2/6/highres_317531302.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "24774892",
+          "name": "TJ",
+          "photo": {
+            "id": "311924739",
+            "source": "https://secure.meetupstatic.com/photos/member/a/e/c/3/highres_311924739.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "7410120",
+          "name": "mark",
+          "photo": {
+            "id": "308815952",
+            "source": "https://secure.meetupstatic.com/photos/member/d/a/9/0/highres_308815952.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "72716102",
+          "name": "Joan",
+          "photo": {
+            "id": "319333553",
+            "source": "https://secure.meetupstatic.com/photos/member/3/4/f/1/highres_319333553.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "5675563",
+          "name": "James B.",
+          "photo": {
+            "id": "282411154",
+            "source": "https://secure.meetupstatic.com/photos/member/c/7/d/2/highres_282411154.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "36021072",
+          "name": "Robert J."
+        },
+        {
+          "is_host": false,
+          "user_id": "472977679",
+          "name": "Vicki Markowitz",
+          "photo": {
+            "id": "322989279",
+            "source": "https://secure.meetupstatic.com/photos/member/2/4/3/f/highres_322989279.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474071254",
+          "name": "diana"
+        },
+        {
+          "is_host": false,
+          "user_id": "14771591",
+          "name": "Terry A",
+          "photo": {
+            "id": "320830896",
+            "source": "https://secure.meetupstatic.com/photos/member/2/a/9/0/highres_320830896.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "10203261",
+          "name": "Belinda Marie",
+          "photo": {
+            "id": "319236763",
+            "source": "https://secure.meetupstatic.com/photos/member/8/f/9/b/highres_319236763.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "79307522",
+          "name": "David L."
+        },
+        {
+          "is_host": false,
+          "user_id": "163267262",
+          "name": "Fern Mottes",
+          "photo": {
+            "id": "321126215",
+            "source": "https://secure.meetupstatic.com/photos/member/1/8/4/7/highres_321126215.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "188375031",
+          "name": "Michael D."
+        },
+        {
+          "is_host": false,
+          "user_id": "346865342",
+          "name": "Judy Gorman ",
+          "photo": {
+            "id": "316864074",
+            "source": "https://secure.meetupstatic.com/photos/member/f/e/a/highres_316864074.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "187181140",
+          "name": "Rita Inkas",
+          "photo": {
+            "id": "320365225",
+            "source": "https://secure.meetupstatic.com/photos/member/6/2/8/9/highres_320365225.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    }
+  }
+]
