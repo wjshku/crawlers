@@ -2279,5 +2279,667 @@
       "name": null,
       "description": "Every 4th Friday of the month until March 29, 2026"
     }
+  },
+  {
+    "id": "311295983",
+    "title": "Soccer - 11 v 11 @ Bushwick Inlet Park - Sunday - 7:45pm-10:00pm - CO-ED",
+    "dateTime": "2025-10-19T19:45:00-04:00",
+    "description": "Full-Field Soccer @ Bushwick Inlet Park - 11 v 11 - Large Goals - Turf Field - Friendly, fun, and competitive game. Permit # 850388\n\nWe play from 7:45 - 10:00pm - (2) 45 minute halves and (1) 5-10 minute break at half-time. 11 v 11 game; rotating goalies every 10 minutes.\n\nIntermediate or better skill level. Absolutely no beginner level players\n\n**ALL NEW PLAYERS** to the group MUST submit payment for the game of $6.00 by venmo at \"@ron-bello\" - Payment must be made within 4 hours of signing up for the game. I am sick and tired of no-shows. I will refund payments within 12-hours from game-time cancellation. You may also get a meetup message from me as well to confirm for all new players.\n\nOn Field time is 7:45pm - **My Cell # is (718) 216-7129** for anyone running late. **ONLY** a text or call will hold your spot in the event you show up past 8:00pm.\n\n1. Last chance to drop a spot is 4 Hours BEFORE game time. Any drops after more than likely will result in suspension from the group.\n2. Failure to show up to a game will result in permanent suspension from the group.\n3. NO player is allowed to join the waitlist; you will be removed. Do not be sneaky.\n\nAll players who sign up **depend on each and every other player** signed up to SHOW UP. If you no-show or cancel your spot 1-2 hours before the game it is disrespectful to them and to me as the organizer.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bushwick-inlet-brooklyn-coed-soccer-meetup/events/311295983/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 22,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "506674961",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/8/8/9/1/highres_506674961.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": {
+      "amount": 6.0,
+      "currency": "USD",
+      "label": null
+    },
+    "group": {
+      "id": "18449035",
+      "name": "Brooklyn / Queens Coed Soccer Club",
+      "urlname": "Bushwick-Inlet-Brooklyn-Coed-Soccer-Meetup",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "434718334",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/4/7/9/e/highres_434718334.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.82,
+        "total_ratings": 1299
+      }
+    },
+    "rsvps": {
+      "total_count": 22,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "79577102",
+          "name": "Ron Bello",
+          "photo": {
+            "id": "127986142",
+            "source": "https://secure.meetupstatic.com/photos/member/1/7/f/e/highres_127986142.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475860127",
+          "name": "Andres Carabali",
+          "photo": {
+            "id": "324130273",
+            "source": "https://secure.meetupstatic.com/photos/member/2/8/2/1/highres_324130273.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "340824430",
+          "name": "Cesar Alcantara",
+          "photo": {
+            "id": "307619662",
+            "source": "https://secure.meetupstatic.com/photos/member/e/9/0/e/highres_307619662.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "476051751",
+          "name": "Martin",
+          "photo": {
+            "id": "324013874",
+            "source": "https://secure.meetupstatic.com/photos/member/3/6/3/2/highres_324013874.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "411537031",
+          "name": "Mohamed",
+          "photo": {
+            "id": "324079786",
+            "source": "https://secure.meetupstatic.com/photos/member/4/d/4/a/highres_324079786.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "199392205",
+          "name": "Shigeki Obi",
+          "photo": {
+            "id": "304831451",
+            "source": "https://secure.meetupstatic.com/photos/member/7/a/d/b/highres_304831451.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "363038736",
+          "name": "Andrew Paul",
+          "photo": {
+            "id": "310838990",
+            "source": "https://secure.meetupstatic.com/photos/member/9/8/4/e/highres_310838990.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "413888320",
+          "name": "Andy ",
+          "photo": {
+            "id": "322890166",
+            "source": "https://secure.meetupstatic.com/photos/member/7/5/d/6/highres_322890166.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "426746793",
+          "name": "Matthew Cruz",
+          "photo": {
+            "id": "320509930",
+            "source": "https://secure.meetupstatic.com/photos/member/c/3/0/a/highres_320509930.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "409430888",
+          "name": "Cristián Rivas",
+          "photo": {
+            "id": "317956916",
+            "source": "https://secure.meetupstatic.com/photos/member/4/2/1/4/highres_317956916.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475717787",
+          "name": "Alexander Contreras ",
+          "photo": {
+            "id": "323913631",
+            "source": "https://secure.meetupstatic.com/photos/member/8/3/5/f/highres_323913631.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "474781529",
+          "name": "joyyoelbryan",
+          "photo": {
+            "id": "323565920",
+            "source": "https://secure.meetupstatic.com/photos/member/b/3/6/0/highres_323565920.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "475035776",
+          "name": "Ali Maaz",
+          "photo": {
+            "id": "323690497",
+            "source": "https://secure.meetupstatic.com/photos/member/c/5/4/1/highres_323690497.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "370169381",
+          "name": "Alex A",
+          "photo": {
+            "id": "319684597",
+            "source": "https://secure.meetupstatic.com/photos/member/1/1/f/5/highres_319684597.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "370169343",
+          "name": "Stacy Castro",
+          "photo": {
+            "id": "315426645",
+            "source": "https://secure.meetupstatic.com/photos/member/1/9/f/5/highres_315426645.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "469019849",
+          "name": "Ali S",
+          "photo": {
+            "id": "322414731",
+            "source": "https://secure.meetupstatic.com/photos/member/8/7/a/b/highres_322414731.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "215587136",
+          "name": "Alberto Spadanuda",
+          "photo": {
+            "id": "304402524",
+            "source": "https://secure.meetupstatic.com/photos/member/5/7/f/c/highres_304402524.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "399786547",
+          "name": "Carlos",
+          "photo": {
+            "id": "323446404",
+            "source": "https://secure.meetupstatic.com/photos/member/b/5/4/4/highres_323446404.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "188183664",
+          "name": "Sayid",
+          "photo": {
+            "id": "293203301",
+            "source": "https://secure.meetupstatic.com/photos/member/a/9/2/5/highres_293203301.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "231915227",
+          "name": "Kevin Liang",
+          "photo": {
+            "id": "268816240",
+            "source": "https://secure.meetupstatic.com/photos/member/3/f/7/0/highres_268816240.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every week on Sunday until November 30, 2025"
+    }
+  },
+  {
+    "id": "311246611",
+    "title": "Weehawken to Liberty State Park (Intermediate Skate)",
+    "dateTime": "2025-10-16T18:00:00-04:00",
+    "description": "This is a recurring Thursday Night Skate from Weehawken, NJ to Liberty State Park. Intermediate level. Meet at Son Cubano Restaurant at 6pm.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/nycrollerbladers/events/311246611/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "529875185",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/3/b/5/1/highres_529875185.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "37259223",
+      "name": "NYC Rollerbladers",
+      "urlname": "nycrollerbladers",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "520369711",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/c/2/2/f/highres_520369711.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.84,
+        "total_ratings": 251
+      }
+    },
+    "rsvps": {
+      "total_count": 1,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "475473676",
+          "name": "LouisCook"
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every week on Thursday until October 30, 2025"
+    }
+  },
+  {
+    "id": "311295229",
+    "title": "Sunday 5:10 pm ⚽️ big goals limited capacity soccer edm music newtown",
+    "dateTime": "2025-10-19T17:15:00-04:00",
+    "description": "Eleven years of Soccer! Games start on time, please be there 10-15m before.\nNo sliding tackles, no CLEATS, no offside, large goals 7v7 games.\nGames are set up for two 6v6 games or rotation 8v8 games (24 attendees) If games are full, they are full.\ncall your own fouls and respect the call if someone calls a foul on you. In situations where the ball may be going out of bounds, it must be clearly out of bounds to all players near the ball; any doubt and the ball will be considered in play.\nBe on time and remember the waiting list is not at all a guarantee to play!\nCancellations:\n\nYou have until 12pm the night before the game to change your RSVP to No. Anyone updated their RSVP past 12 gets a two week ban.\nTeam Breakouts:\nThese go out the night before the game at 10pm.\nNo Shows Get Banned:\n2 week match ban no questions asked. I don't care about how many excuses you have !\nPeople on rsvp list we can surely accommodate but that’s pretty much it.\n\nLate show:\nFrom now on lateshows will pay an extra 1$ on top off the rsvp\nwill confirm you on the field\n\nto confirm spot pay 8$ venmo:@OmarEissa123\ncashapp:Eissa123\nunder Omar Eissa\nzelle :718-300-0506 and put Sunday newtown",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/brooklynsoccerfc/events/311295229/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 27,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "519646476",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/b/5/8/c/highres_519646476.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": {
+      "amount": 8.0,
+      "currency": "USD",
+      "label": null
+    },
+    "group": {
+      "id": "1446129",
+      "name": "Brooklyn Soccer FC",
+      "urlname": "brooklynsoccerfc",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "478409199",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/7/2/0/f/highres_478409199.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.73,
+        "total_ratings": 4442
+      }
+    },
+    "rsvps": {
+      "total_count": 5,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "382207193",
+          "name": "Abdul",
+          "photo": {
+            "id": "316552460",
+            "source": "https://secure.meetupstatic.com/photos/member/c/c/e/c/highres_316552460.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "342382713",
+          "name": "Mario",
+          "photo": {
+            "id": "318810795",
+            "source": "https://secure.meetupstatic.com/photos/member/7/8/4/b/highres_318810795.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "233052413",
+          "name": "Omar essa",
+          "photo": {
+            "id": "309493846",
+            "source": "https://secure.meetupstatic.com/photos/member/3/6/1/6/highres_309493846.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "233216229",
+          "name": "Shak",
+          "photo": {
+            "id": "304315218",
+            "source": "https://secure.meetupstatic.com/photos/member/d/7/b/2/highres_304315218.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "423937852",
+          "name": "Nico",
+          "photo": {
+            "id": "320092392",
+            "source": "https://secure.meetupstatic.com/photos/member/c/c/a/8/highres_320092392.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every week on Sunday"
+    }
+  },
+  {
+    "id": "310741599",
+    "title": "⚽️✨🌙@Chelsea Waterside 🥅Master League (Advanced football Session- INVITE ONLY)",
+    "dateTime": "2025-10-19T15:30:00-04:00",
+    "description": "**\\*\\*\\*New members MUST send us a short intro about your football experience before RSVPing. Email: HRFCNY@gmail.com**\n\n**Master League Hosted by Hudson River FC**\nHRFC will carefully form 4 teams each session, considering players’ fitness levels, skills, and on-field chemistry.\nOur main goal is to help refine and fine-tune players’ skills while maintaining top-level fitness. Along with our coaches, I will provide coaching and mentorship to our players as part of our elite-level NY football community.\n\n***Welcome to Hudson River FC, the highly creative and competitive soccer group! Our top priority is to focus on high-quality football session in downtown NYC. This is for advanced players who want to refine developed skills, improving first touch, encouraging one-touch one-two passing, elevating football IQ, enhance teamwork communication, establishing rhythm in gameplay, and creating scoring opportunities.***\n\n**Guidelines**:\nNo slide tackles allowed!\nMake your own calls.\nPlease arrive 15 minutes early!\nEmbrace creativity!\n\n**Payment Information:**\nAfter signing up, please proceed to secure your spot\nPayment methods:\nVenmo: @slamslam008 (Please indicate date & location)\nZelle: (Message me for Zelle info)\nPayPal: sunny2forest@gmail.com (friends & family)\n**Attire:**\nWe provide colored pinnies for our games, but please also bring a white and black tee.\n**Weather Policy:**\nGames take place rain or shine unless you receive a cancellation notification from us.\n**Disclaimer:**\nOur pickup soccer session is not liable for any injuries that may occur while playing. By RSVPing to attend our games, you accept full responsibility for your personal belongings and waive any right to hold the group responsible",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/new-york-pick-up-soccer-group/events/310741599/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 33,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "529867533",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/1/d/6/d/highres_529867533.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": {
+      "amount": 18.0,
+      "currency": "USD",
+      "label": null
+    },
+    "group": {
+      "id": "37084276",
+      "name": "⚽️NYC Advanced/Elite Soccer Community by Hudson River FC",
+      "urlname": "new-york-pick-up-soccer-group",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "527048818",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/2/2/7/2/highres_527048818.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.9,
+        "total_ratings": 851
+      }
+    },
+    "rsvps": {
+      "total_count": 33,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "406781848",
+          "name": "Adam Skawinski",
+          "photo": {
+            "id": "317779221",
+            "source": "https://secure.meetupstatic.com/photos/member/4/b/1/5/highres_317779221.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "386438959",
+          "name": "Hameer Deo",
+          "photo": {
+            "id": "323895921",
+            "source": "https://secure.meetupstatic.com/photos/member/3/e/3/1/highres_323895921.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "403464281",
+          "name": "Ian Cervantes"
+        },
+        {
+          "is_host": true,
+          "user_id": "385068621",
+          "name": "sunny",
+          "photo": {
+            "id": "316934563",
+            "source": "https://secure.meetupstatic.com/photos/member/3/8/e/3/highres_316934563.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "44871722",
+          "name": "Zack Gao",
+          "photo": {
+            "id": "243558748",
+            "source": "https://secure.meetupstatic.com/photos/member/4/9/3/c/highres_243558748.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "391285320",
+          "name": "Nir",
+          "photo": {
+            "id": "317023028",
+            "source": "https://secure.meetupstatic.com/photos/member/a/8/1/4/highres_317023028.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "104309102",
+          "name": "Rob Lukauskas",
+          "photo": {
+            "id": "306111756",
+            "source": "https://secure.meetupstatic.com/photos/member/c/a/2/c/highres_306111756.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "94571242",
+          "name": "Jack",
+          "photo": {
+            "id": "317684866",
+            "source": "https://secure.meetupstatic.com/photos/member/a/f/4/2/highres_317684866.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "341204552",
+          "name": "Mohamed Oday",
+          "photo": {
+            "id": "321534023",
+            "source": "https://secure.meetupstatic.com/photos/member/d/3/0/7/highres_321534023.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "395505411",
+          "name": "Aidan Wood",
+          "photo": {
+            "id": "321697766",
+            "source": "https://secure.meetupstatic.com/photos/member/9/3/8/6/highres_321697766.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "457124489",
+          "name": "davismcast"
+        },
+        {
+          "is_host": false,
+          "user_id": "455570149",
+          "name": "Paulo",
+          "photo": {
+            "id": "324088042",
+            "source": "https://secure.meetupstatic.com/photos/member/6/d/8/a/highres_324088042.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every week on Sunday until November 8, 2025"
+    }
+  },
+  {
+    "id": "311247015",
+    "title": "Monday Speed Workout - McCarren Track",
+    "dateTime": "2025-10-20T19:00:00-04:00",
+    "description": "Monday Speed Workout at the Mccarren Track!! The best way to start your week!\n\ntl;dr- Fire up your week with a speed workout for runners of all paces and abilities. We're excited and we hope you are too!!\n\n***\n\nAll The Details:\nThere's only one trick to getting faster... and that is to run fast!\n\nCome join TMIRCE in Williamsburg @ the McCarren Track for a free, creative speed workout guaranteed to make you faster one step at a time.\n\nLace up, show up! All paces welcome! You are not too slow! And yes, we run in the rain!\n\nWorkouts will consist of short intervals (usually a combo of 200m to 1200m) with rest periods in between. We total \\~3 miles. It's a new workout every week!\n\nAfterwards we'll head over to a local bar for some post-run refreshments.\n\n***\n\nOn Attendance:\n\n* It's informal running so RSVPs are optional. We tend to get a lot more runners than RSVPs.\n* There is NO secure place to store bags, valuables, etc. Please use caution and do not bring anything you cannot afford to lose. We pile our stuff together and are (relatively) nearby for the duration of the workout but no promises. We have never had a problem with theft, but that doesn't mean it can't happen.\n\n***\n\nThe Fine Print:\nIf you have any symptoms of COVID-19, believe you may have been exposed to someone with the virus, or satisfy any other condition that would put yourself or others at risk of COVID-19 transmission please stay home.\n\nWe expect everyone who shows up to adhere to our guidelines and the policies put forth by our health and local government officials. However, even with the best of intentions it’s possible that someone could contract or pass along COVID-19. TMIRCE, its members and run leaders assume no responsibility for the health and safety of any attendee. In accordance, each attendee agrees to assume personal responsibility for any injury or illness (COVID-19 related or otherwise) that may occur during or after participation in a TMIRCE event.",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/nyc-informal-running-club-home-of-tmirce-nyc/events/311247015/",
+    "isAttending": false,
+    "isSaved": false,
+    "maxTickets": 0,
+    "rsvpState": "JOIN_OPEN",
+    "featured_photo": {
+      "id": "481946827",
+      "high_res_url": "https://secure.meetupstatic.com/photos/event/6/8/c/b/highres_481946827.jpeg",
+      "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+    },
+    "fee": null,
+    "group": {
+      "id": "5280512",
+      "name": "The Most Informal Running Club Ever (TMIRCE):NYC",
+      "urlname": "nyc-informal-running-club-home-of-tmirce-nyc",
+      "timezone": "America/New_York",
+      "photo": {
+        "id": "527249957",
+        "high_res_url": "https://secure.meetupstatic.com/photos/event/7/5/0/5/highres_527249957.jpeg",
+        "base_url": "https://secure-content.meetupstatic.com/images/classic-events/"
+      },
+      "ratings": {
+        "average": 4.9,
+        "total_ratings": 1842
+      }
+    },
+    "rsvps": {
+      "total_count": 7,
+      "attendees": [
+        {
+          "is_host": true,
+          "user_id": "401982828",
+          "name": "Annabel Levinson",
+          "photo": {
+            "id": "316727143",
+            "source": "https://secure.meetupstatic.com/photos/member/b/8/2/7/highres_316727143.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "99241382",
+          "name": "Samantha Thomas",
+          "photo": {
+            "id": "322498048",
+            "source": "https://secure.meetupstatic.com/photos/member/e/2/c/0/highres_322498048.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": true,
+          "user_id": "155605522",
+          "name": "Zac Sweers",
+          "photo": {
+            "id": "321368115",
+            "source": "https://secure.meetupstatic.com/photos/member/1/f/b/3/highres_321368115.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "409342040",
+          "name": "Mark Hanna",
+          "photo": {
+            "id": "318446519",
+            "source": "https://secure.meetupstatic.com/photos/member/6/7/9/7/highres_318446519.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "184377073",
+          "name": "Gaelle Monfort",
+          "photo": {
+            "id": "322988679",
+            "source": "https://secure.meetupstatic.com/photos/member/2/1/e/7/highres_322988679.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "245007105",
+          "name": "Pavleen Singh",
+          "photo": {
+            "id": "273429811",
+            "source": "https://secure.meetupstatic.com/photos/member/2/6/5/3/highres_273429811.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        },
+        {
+          "is_host": false,
+          "user_id": "299604550",
+          "name": "Mitch Davidson",
+          "photo": {
+            "id": "324124488",
+            "source": "https://secure.meetupstatic.com/photos/member/1/1/8/8/highres_324124488.jpeg",
+            "base_url": "https://secure-content.meetupstatic.com/images/classic-member/"
+          }
+        }
+      ]
+    },
+    "series": {
+      "id": null,
+      "name": null,
+      "description": "Every week on Monday until December 31, 2027"
+    }
   }
 ]

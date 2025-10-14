@@ -61,3 +61,49 @@ events = parse_events(raw_data)
 | **Eventbrite** | 成立于 2006 年，总部位于旧金山。是全球最大的活动票务与组织平台之一，每年举办超过 450 万场活动，覆盖 180+ 国家。 | - 专注大型活动与商业票务（会议、展览、音乐节）<br>- 官方 API 较完善，活动信息结构化良好<br>- 提供城市、类别、日期等搜索筛选功能 | 活动主办方、企业活动经理、音乐节组织者、普通消费者 | 标题、时间、地点、票价、主办方、活动类别、报名人数、描述 |
 | **Meetup** | 创建于 2002 年，被 WeWork 收购后重新独立。全球拥有超过 5,000 万用户，每月活跃组织超 10 万场本地活动。 | - 强调"基于兴趣的线下社群"<br>- 涵盖技术聚会、语言交换、徒步、文化活动等<br>- 活动以社群形式组织，可爬取群组信息 | 技术爱好者、外语学习者、社区组织者、城市新居民 | 群组名、活动名、时间、地点、参与人数、类别、活动描述 |
 | **AllEvents.in** | 成立于印度但在美国使用广泛，聚合了全球 60,000+ 城市的活动数据，是一个活动信息聚合平台。 | - 聚合型平台，来源包括本地场馆、社交媒体、Eventbrite 等<br>- 分类丰富（音乐、文化、美食、节庆、学术）<br>- 界面简洁，信息字段较统一 | 城市居民、学生、文化活动参与者、活动推广者 | 活动标题、类别、地点、日期、门票链接、组织者、标签 |
+
+## Meetup
+List of Events: 
+All events
+people1 icon
+New Groups
+pizza icon
+Social Activities
+toy icon
+Hobbies & Passions
+ball icon
+Sports & Fitness
+tree icon
+Travel & Outdoor
+suitcase icon
+Career & Business
+computer icon
+Technology
+building icon
+Community & Environment
+world icon
+Identity & Language
+videogame icon
+Games
+dancing icon
+Dancing
+heart icon
+Support & Coaching
+music icon
+Music
+mentalHealth icon
+Health & Wellbeing
+painting icon
+Art & Culture
+potion icon
+Science & Education
+cat icon
+Pets & Animals
+pray icon
+Religion & Spirituality
+writing icon
+Writing
+child icon
+Parents & Family
+fist icon
+Movements & Politics

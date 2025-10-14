@@ -1,52 +1,61 @@
 import requests
 import json
 
-cookies = {
-    # "orion_lsid": "1e504ed1-cf33-4cbd-b5ad-2e52c7a99d3b",
-    # "SIFT_SESSION_ID": "077cb76d-9be9-47bd-aa7f-03ae332d1458",
-    # "USER_CHANGED_DISTANCE_FILTER": "false",
-    # "MEETUP_BROWSER_ID": "id=f86923a4-21f5-4aa5-a266-5e51a3b0b974",
-    # "MEETUP_TRACK": "id=fa6246fa-6c35-46a1-a599-683e52a584dc",
-    # "__Host-NEXT_MEETUP_CSRF": "8f153606-2020-4d0d-aebe-581ec2838863",
-}
-
-headers = {
-    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
-    "x-meetup-view-id": "baad2164-31b8-4662-9b82-a4f961a79327",
-}
-
-json_data = {
-    "operationName": "recommendedEventsWithSeries",
-    "variables": {
-        "first": 12,
-        "lat": 40.75,
-        "lon": -73.98999786376953,
-        "topicCategoryId": "652",
-        "startDateRange": "2025-10-12T04:13:02-04:00[US/Eastern]",
-        "numberOfEventsForSeries": 5,
-        "seriesStartDate": "2025-10-12",
-        "sortField": "RELEVANCE",
-        "doConsolidateEvents": True,
-        "doPromotePaypalEvents": False,
-        "indexAlias": '"{\\"filterOutWrongLanguage\\": \\"true\\",\\"modelVersion\\": \\"split_offline_online\\"}"',
-        "dataConfiguration": '{"isSimplifiedSearchEnabled": true, "include_events_from_user_chapters": true}',
-    },
-    "extensions": {
-        "persistedQuery": {
-            "version": 1,
-            "sha256Hash": "41c4ab255edd3c793ee394cfaeec3f4e823eab251620360e4705032be0f949a1",
-        },
-    },
-}
-
-
 # Note: json_data will not be serialized by requests
 # exactly as it was in the original request.
 # data = '{"operationName":"recommendedEventsWithSeries","variables":{"first":12,"lat":40.75,"lon":-73.98999786376953,"topicCategoryId":"652","startDateRange":"2025-10-12T04:13:02-04:00[US/Eastern]","numberOfEventsForSeries":5,"seriesStartDate":"2025-10-12","sortField":"RELEVANCE","doConsolidateEvents":true,"doPromotePaypalEvents":false,"indexAlias":"\\"{\\\\\\"filterOutWrongLanguage\\\\\\": \\\\\\"true\\\\\\",\\\\\\"modelVersion\\\\\\": \\\\\\"split_offline_online\\\\\\"}\\"","dataConfiguration":"{\\"isSimplifiedSearchEnabled\\": true, \\"include_events_from_user_chapters\\": true}"},"extensions":{"persistedQuery":{"version":1,"sha256Hash":"41c4ab255edd3c793ee394cfaeec3f4e823eab251620360e4705032be0f949a1"}}}'
 # response = requests.post('https://www.meetup.com/gql2', cookies=cookies, headers=headers, data=data)
 
 
-def fetch_events():
+def get_category_id(category):
+    return {
+        "Indentity & Language": "622",
+        "Pets & Animals": "701",
+        "Social Activities": "652",
+        "Sports & Fitness": "482",
+        "Community & Environment": "604",
+    }[category]
+
+def fetch_events(lat = 40.75, lon = -73.98999786376953, 
+            category = "Community & Environment",
+            num_events = 15,
+            start_date = "2025-10-12"):
+
+    category_id = get_category_id(category)
+    # —————— 配置你的 Meetup 会话信息 ——————
+    cookies = {
+    }
+
+    headers = {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "x-meetup-view-id": "baad2164-31b8-4662-9b82-a4f961a79327",
+    }
+
+    json_data = {
+        "operationName": "recommendedEventsWithSeries",
+        "variables": {
+            "first": num_events,
+            "lat": lat,
+            "lon": lon,
+            "topicCategoryId": category_id,
+            # "startDateRange": "2025-10-12T04:13:02-04:00[US/Eastern]",
+            'eventType': 'PHYSICAL',
+            "numberOfEventsForSeries": 5,
+            "seriesStartDate": start_date,
+            "sortField": "RELEVANCE",
+            "doConsolidateEvents": True,
+            "doPromotePaypalEvents": False,
+            "indexAlias": '"{\\"filterOutWrongLanguage\\": \\"true\\",\\"modelVersion\\": \\"split_offline_online\\"}"',
+            "dataConfiguration": '{"isSimplifiedSearchEnabled": true, "include_events_from_user_chapters": true}',
+        },
+        "extensions": {
+            "persistedQuery": {
+                "version": 1,
+                "sha256Hash": "41c4ab255edd3c793ee394cfaeec3f4e823eab251620360e4705032be0f949a1",
+            },
+        },
+    }
+
     response = requests.post(
         "https://www.meetup.com/gql2", cookies=cookies, headers=headers, json=json_data
     )
@@ -184,11 +193,14 @@ def parse_events(raw):
     
     return events
 
-
-# Save response.json to file
-
 if __name__ == "__main__":
-    raw = fetch_events()
+    raw = fetch_events(
+        lat = 40.75, 
+        lon = -74, 
+        category = "Sports & Fitness",
+        num_events = 15,
+        start_date = "2025-10-12"
+    )
     extracted = parse_events(raw)
     print(extracted)
     with open("meetup.json", "w", encoding="utf-8") as f:
