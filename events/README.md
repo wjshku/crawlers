@@ -63,47 +63,25 @@ events = parse_events(raw_data)
 | **AllEvents.in** | 成立于印度但在美国使用广泛，聚合了全球 60,000+ 城市的活动数据，是一个活动信息聚合平台。 | - 聚合型平台，来源包括本地场馆、社交媒体、Eventbrite 等<br>- 分类丰富（音乐、文化、美食、节庆、学术）<br>- 界面简洁，信息字段较统一 | 城市居民、学生、文化活动参与者、活动推广者 | 活动标题、类别、地点、日期、门票链接、组织者、标签 |
 
 ## Meetup
-List of Events: 
-All events
-people1 icon
-New Groups
-pizza icon
-Social Activities
-toy icon
-Hobbies & Passions
-ball icon
-Sports & Fitness
-tree icon
-Travel & Outdoor
-suitcase icon
-Career & Business
-computer icon
-Technology
-building icon
-Community & Environment
-world icon
-Identity & Language
-videogame icon
-Games
-dancing icon
-Dancing
-heart icon
-Support & Coaching
-music icon
-Music
-mentalHealth icon
-Health & Wellbeing
-painting icon
-Art & Culture
-potion icon
-Science & Education
-cat icon
-Pets & Animals
-pray icon
-Religion & Spirituality
-writing icon
-Writing
-child icon
-Parents & Family
-fist icon
-Movements & Politics
+| Event Type               | Local Life Relevance (0-10) | Reason / Example Activities                                  |
+|--------------------------|----------------------------|-------------------------------------------------------------|
+| Social Activities        | 9                          | Cafes meetups, trivia nights, social mixers; naturally local |
+| Hobbies & Passions       | 8                          | Crafting clubs, photography, board games; often local       |
+| Sports & Fitness         | 10                         | Group runs, yoga classes, soccer games; requires physical presence |
+| Travel & Outdoor         | 9                          | Local hikes, city walks, cycling trips; outdoor gatherings  |
+| Career & Business        | 4                          | Networking may be online or broad, less tied to locality   |
+| Technology               | 3                          | Hackathons, webinars; often online or global               |
+| Community & Environment  | 10                         | Volunteering, cleanups, neighborhood projects              |
+| Identity & Language      | 6                          | Language exchanges can be local, but often online          |
+| Games                    | 6                          | Board games or card game meetups can be local              |
+| Dancing                  | 7                          | Dance classes, social dance events are local               |
+| Support & Coaching       | 7                          | Local workshops, mentorship sessions                        |
+| Music                    | 5                          | Concerts or jam sessions may be local or online            |
+| Health & Wellbeing       | 8                          | Meditation, wellness workshops; mostly local               |
+| Art & Culture            | 8                          | Exhibitions, theater, cultural events; location-specific   |
+| Science & Education      | 5                          | Workshops or talks may be online or local                  |
+| Pets & Animals           | 9                          | Pet meetups, adoption events, dog parks                    |
+| Religion & Spirituality  | 6                          | Services or group activities may be local or online        |
+| Writing                  | 4                          | Writing groups often virtual                                |
+| Parents & Family         | 9                          | Playgroups, family-friendly activities                     |
+| Movements & Politics     | 5                          | Can be local or online depending on activism               |
