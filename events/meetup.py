@@ -17,11 +17,10 @@ def get_category_id(category):
     }[category]
 
 def fetch_events(lat = 40.75, lon = -73.98999786376953, 
-            category = "Community & Environment",
+            category = None,
             num_events = 15,
             start_date = "2025-10-12"):
 
-    category_id = get_category_id(category)
     # —————— 配置你的 Meetup 会话信息 ——————
     cookies = {
     }
@@ -31,14 +30,11 @@ def fetch_events(lat = 40.75, lon = -73.98999786376953,
         "x-meetup-view-id": "baad2164-31b8-4662-9b82-a4f961a79327",
     }
 
-    json_data = {
-        "operationName": "recommendedEventsWithSeries",
-        "variables": {
+    variables = {
             "first": num_events,
             "lat": lat,
             "lon": lon,
-            "topicCategoryId": category_id,
-            # "startDateRange": "2025-10-12T04:13:02-04:00[US/Eastern]",
+            "startDateRange": f"{start_date}T00:00:00-04:00[US/Eastern]", #"2025-10-12T04:13:02-04:00[US/Eastern]",
             'eventType': 'PHYSICAL',
             "numberOfEventsForSeries": 5,
             "seriesStartDate": start_date,
@@ -47,7 +43,14 @@ def fetch_events(lat = 40.75, lon = -73.98999786376953,
             "doPromotePaypalEvents": False,
             "indexAlias": '"{\\"filterOutWrongLanguage\\": \\"true\\",\\"modelVersion\\": \\"split_offline_online\\"}"',
             "dataConfiguration": '{"isSimplifiedSearchEnabled": true, "include_events_from_user_chapters": true}',
-        },
+        }
+    if category:
+        category_id = get_category_id(category)
+        variables["topicCategoryId"] = category_id
+
+    json_data = {
+        "operationName": "recommendedEventsWithSeries",
+        "variables": variables,
         "extensions": {
             "persistedQuery": {
                 "version": 1,
@@ -193,17 +196,86 @@ def parse_events(raw):
     
     return events
 
+def normalize_event(event, categories = []):
+    """
+    Normalize Meetup event data for consistent output.
+
+    Args:
+        event (dict): Raw event data from Meetup GraphQL API
+
+    Returns:
+        {
+            "event_id": "string",
+            "title": "string",
+            "description": "string",
+            "start_datetime": "ISO datetime",
+            "end_datetime": "ISO datetime",
+            "venue_name": "string",
+            "venue_city": "string",
+            "categories": ["array"],
+            "is_free": boolean,
+            "ticket_min_price": "string",
+            "image_url": "string",
+            "event_url": "string"
+            }
+    """
+    if not isinstance(event, dict):
+        raise ValueError("Event must be a dictionary")
+
+    # Extract basic event information
+    event_id = str(event.get("id", "")).strip()
+    title = str(event.get("title", "")).strip()
+    description = str(event.get("description", "")).strip()
+    start_datetime = event.get("dateTime")
+
+    # Determine if event is free and ticket price
+    fee = event.get("fee")
+    is_free = fee is None
+    ticket_min_price = "0"
+    if fee and isinstance(fee, dict):
+        amount = fee.get("amount")
+        if amount is not None:
+            ticket_min_price = str(amount)
+
+    # Extract image URL
+    image_url = ""
+    featured_photo = event.get("featured_photo")
+    if featured_photo and isinstance(featured_photo, dict):
+        image_url = str(featured_photo.get("high_res_url", "")).strip()
+
+    # Extract event URL
+    event_url = str(event.get("eventUrl", "")).strip()
+
+    normalized = {
+        "event_id": event_id,
+        "title": title,
+        "description": description,
+        "start_datetime": start_datetime,
+        "end_datetime": None,  # Meetup events don't typically have explicit end times
+        "venue_name": None, # Venue is in description
+        "venue_city": None, # Venue is in description
+        "categories": categories, # Use passed in categories
+        "is_free": is_free,
+        "ticket_min_price": ticket_min_price,
+        "image_url": image_url,
+        "event_url": event_url,
+    }
+
+    return normalized
+
+
 if __name__ == "__main__":
     raw = fetch_events(
-        lat = 40.75, 
-        lon = -74, 
+        lat = 40.75,
+        lon = -74,
         category = "Sports & Fitness",
         num_events = 15,
-        start_date = "2025-10-12"
+        start_date = "2025-10-16"
     )
     extracted = parse_events(raw)
-    print(extracted)
+    normalized = [normalize_event(event, categories = ["Sports & Fitness"]) for event in extracted]
+    print(normalized)
     with open("meetup.json", "w", encoding="utf-8") as f:
-        json.dump(extracted, f, ensure_ascii=False, indent=2)
+        json.dump(normalized, f, ensure_ascii=False, indent=2)
 
-    print(f"Extracted {len(extracted)} events → meetup.json")
+    print(f"Extracted {len(normalized)} events → meetup.json")
